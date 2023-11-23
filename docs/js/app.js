@@ -13,9 +13,13 @@ function onSearchResultClick(e) {
     setActiveSearchResultItem(e);
 }
 
-function clearIllnessInfo() {
+function clearIllnessInfo(noHelpText) {
     const wrapper = document.getElementById('illness-info');
-    wrapper.textContent = '';
+    if(noHelpText) {
+        wrapper.textContent = '';
+    } else {
+        wrapper.textContent = '<=== Selecteer een aandoening';
+    }
 }
 
 function clearSearchResults() {
@@ -38,7 +42,7 @@ function setActiveSearchResultItem(e) {
 function displayIllnessInfoFromSearchResult(illnessId) {
     const result = currentSearchResults[illnessId];
 
-    clearIllnessInfo();
+    clearIllnessInfo(true);
 
     const wrapper = document.getElementById('illness-info');   
     const element = document.createElement("div");
