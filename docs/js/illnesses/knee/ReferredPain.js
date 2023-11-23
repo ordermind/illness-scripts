@@ -14,5 +14,9 @@ export default new Illness({
     diagnostics: `
 - Inspectie: afwijkingen bij bewegingsonderzoek van de heupafwijkingen bij bewegingsonderzoek van de heup
     `,
-    treatment: `De oorzaak van de referred pain moet aangepakt worden.`
+    treatment: `De oorzaak van de referred pain moet aangepakt worden.`,
+    references: `
+Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
+Cook, J., Rodas, G., McCall, A., Pruna, R., Kennedy, R., & Til, L. (2021). <em>Tendon injuries in football players: fc barcelona 2021 tendon guide</em>. FC Barcelona.
+    `
 });

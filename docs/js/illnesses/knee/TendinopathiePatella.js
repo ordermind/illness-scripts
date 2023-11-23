@@ -2,12 +2,13 @@ import Illness from "../Illness.js";
 import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
-    id: "jumpers-knee",
-    name: "Jumper's knee",
+    id: "tendinopathie-patella",
+    name: "Tendinopathie patellapees",
+    description: "Ook bekend als \"Jumper's knee\" (springersknie).",
     pathophysiology: `Tendinopathie van het lig. patellae.`,
     epidemiology: `
 - Vaak gezien bij hardlopers
-- Komt vaak voor bij adolescenten
+- Komt vaak voor bij adolescenten, met name als ze al Osgood-Schlatter hebben gehad.
     `,
     timeCourse: 'Meestal geleidelijk, soms acuut door een val.',
     symptoms: [
@@ -42,5 +43,10 @@ Stadia van pijn:
     treatment: `
 - De belasting dient door de hele keten verspreid te worden, en eventuele zwakke punten die overmatige belasting op de pees veroorzaken moeten gecorrigeerd worden
 - Behandeling van de pees zelf bij tendinopathie: Isometrisch -> HSR -> Functional endurance -> Energy storage and release loads -> Return to training loads
+    `,
+    references: `
+Cook, J., Rodas, G., McCall, A., Pruna, R., Kennedy, R., & Til, L. (2021). <em>Tendon injuries in football players: fc barcelona 2021 tendon guide</em>. FC Barcelona.
+Malliaras, P., Cook, J., Purdam, C., & Rio, E. (2015). Patellar Tendinopathy: Clinical Diagnosis, Load Management, and Advice for Challenging Case Presentations. <em>Journal of Orthopaedic & Sports Physical Therapy, 45</em>(11).
+Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
     `
 });

@@ -2,7 +2,7 @@ export default {
     knee: await Promise.all([
         import("./knee/OsgoodSchlatter.js").then(module => module.default),
         import("./knee/SindingLarsenJohansson.js").then(module => module.default),
-        import("./knee/JumpersKnee.js").then(module => module.default),
+        import("./knee/TendinopathiePatella.js").then(module => module.default),
         import("./knee/TendinopathieQuadriceps.js").then(module => module.default),
         import("./knee/FatPadSyndrome.js").then(module => module.default),
         import("./knee/IliotibialeBandsyndroom.js").then(module => module.default),

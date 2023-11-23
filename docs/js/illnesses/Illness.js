@@ -12,6 +12,7 @@ export default class Illness {
     #symptoms;
     #diagnostics;
     #treatment;
+    #references;
 
     constructor({
         id,
@@ -22,7 +23,8 @@ export default class Illness {
         timeCourse = '',
         symptoms = [],
         diagnostics = '',
-        treatment = ''
+        treatment = '',
+        references = '',
     }) {
         this.#id = id;
         this.#name = name;
@@ -37,6 +39,7 @@ export default class Illness {
         };
         this.#diagnostics = diagnostics;
         this.#treatment = treatment;
+        this.#references = references;
     }
 
     get id() {
@@ -73,6 +76,10 @@ export default class Illness {
 
     get treatment() {
         return this.#treatment;
+    }
+
+    get references() {
+        return this.#references;
     }
 
     #hasSymptom(symptoms, searchTerms) {

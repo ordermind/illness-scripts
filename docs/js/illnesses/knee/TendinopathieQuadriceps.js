@@ -42,5 +42,9 @@ Stadia van pijn:
     treatment: `
 - De belasting dient door de hele keten verspreid te worden, en eventuele zwakke punten die overmatige belasting op de pees veroorzaken moeten gecorrigeerd worden
 - Behandeling van de pees zelf bij tendinopathie: Isometrisch -> HSR -> Functional endurance -> Energy storage and release loads -> Return to training loads
+    `,
+    references: `
+Cook, J., Rodas, G., McCall, A., Pruna, R., Kennedy, R., & Til, L. (2021). <em>Tendon injuries in football players: fc barcelona 2021 tendon guide</em>. FC Barcelona.
+Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
     `
 });

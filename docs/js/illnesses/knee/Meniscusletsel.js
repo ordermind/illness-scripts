@@ -25,5 +25,8 @@ new RegularSymptom('Mogelijk instabiliteit van de knie')
 - Geleidelijk belastbaarheid weer opbouwen, net als bij ruptuur van ligamenten
 - Vaak is er geen operatie nodig en zal de meniscus zelf genezen of zullen de klachten na een trauma vanzelf afnemen.
 - Operatie
+    `,
+    references: `
+Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
     `
 });

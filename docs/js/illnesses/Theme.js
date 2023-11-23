@@ -58,5 +58,12 @@ export default function themeIllnessContent(illness) {
 `; 
     }
 
+    if(illness.references) {
+        content += `
+<h3 class="display-3 fs-4">Bronnen</h3>
+<p>${illness.references.split("\n").join("</p><p>")}</p>
+`; 
+    }
+
     return content;
 }

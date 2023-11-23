@@ -22,5 +22,9 @@ new RegularSymptom('Pijn bij onderkant van de patella')
     treatment: `
 - De klachten gaan meestal vanzelf over, maar dit duurt lang (enkele maanden tot anderhalf jaar)
 - Actief blijven binnen pijngrens.
+    `,
+    references: `
+Malliaras, P., Cook, J., Purdam, C., & Rio, E. (2015). Patellar Tendinopathy: Clinical Diagnosis, Load Management, and Advice for Challenging Case Presentations. <em>Journal of Orthopaedic & Sports Physical Therapy, 45</em>(11).
+Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
     `
 });
