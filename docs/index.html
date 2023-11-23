@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./css/bootstrap.min.css" />
+        <link rel="stylesheet" href="./css/main.css" />
+    </head>
+    <body>
+        <div class="container mt-5 ">
+            <div class="row">
+                <div class="col">
+                    <h1 class="display-1 fs-2 mb-4">Illness Scripts</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 text-center">
+                    <h2 class="display-2 fs-4">Filters</h2>
+                    <form id="form-search">
+                        <div class="mb-3">
+                            <select class="form-select" name="category" id="select-categories">
+                                <option value="">- Regio -</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="name" placeholder="Naam"/>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="pathophysiology" placeholder="Pathofysiologie" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="epidemiology" placeholder="Epidemiologie" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="timeCourse" placeholder="Verloop" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="symptoms" placeholder="Symptomen" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="diagnostics" placeholder="Diagnostiek" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="treatment" placeholder="Behandeling" />
+                        </div>
+
+                        <div class="mb-3 d-flex justify-content-between">
+                            <input type="submit" class="btn btn-primary" id="submit-filters" value="Filteren" />
+                            <input type="reset" class="btn btn-light" id="clear-filters" value="Wissen" />
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-3 p-2 bg-body-tertiary border text-center">
+                    <ul class="list-group" id="search-result"></ul>
+                </div>
+                <div class="col-lg-6 pt-2 bg-secondary text-light">
+                    <div id="illness-info"></div>
+                </div>
+            </div>
+        </div>        
+    </body>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/app.js" type="module"></script>
+</html> 

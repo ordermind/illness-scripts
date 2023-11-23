@@ -1,0 +1,17 @@
+###############################################################################
+#                          Generated on phpdocker.io                          #
+###############################################################################
+version: "3"
+services:
+  webserver:
+    build: docker-images/apache
+    container_name: illness-scripts-webserver
+    working_dir: /application/
+    environment:
+      - SSH_AUTH_SOCK=/ssh-agent
+    volumes:
+      - ./docs:/application
+      - ${SSH_AUTH_SOCK}:/ssh-agent
+    ports:
+      - "8000:80"
+      - "8443:443"
