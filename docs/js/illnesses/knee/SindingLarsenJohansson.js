@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "sinding-larsen-johansson",
     name: "Syndroom van Sinding-Larsen-Johansson",
+    images: [
+        "./images/knee/sinding-larsen-johansson.jpg",
+    ],
     pathophysiology: `
 - Irritatie van de groeiplaat ter hoogte van de onderzijde van de knieschijf (patella), waar de patellapees aanhecht op de knieschijf
     `,

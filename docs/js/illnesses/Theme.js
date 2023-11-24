@@ -1,8 +1,16 @@
 export default function themeIllnessContent(illness) {
     let content = '';
 
-    content += `<h2 class="display-2 fs-3 mb-3">${illness.name}</h2>`;
 
+
+    if(illness.images.length) {
+        content += `<div class="mb-3 text-center">`;
+        for(const src of illness.images) {
+            content += `<img src="${src}" />`;
+        }
+        content += `</div>`;
+    }
+    content += `<h2 class="display-2 fs-3 mb-3">${illness.name}</h2>`;
     if(illness.description) {
         content += `<p>${illness.description.split("\n").join("</p><p>")}</p>`
     }

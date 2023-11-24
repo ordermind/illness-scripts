@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "knee-arthrosis",
     name: "Knieartrose",
+    images: [
+        "./images/knee/knieartrose.jpg",
+    ],
     pathophysiology: `
 - Verslijting van het kniegewricht
     `,

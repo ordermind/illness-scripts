@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "tendinopathie-quadriceps",
     name: "Tendinopathie quadricepspees",
+    images: [
+        "./images/knee/tendinopathie-quadriceps.jpg",
+    ],
     pathophysiology: `Tendinopathie van de tendo quadriceps`,
     epidemiology: `
 - Vaak geassocieerd met bewegingen die diepe knieflexie vereisen, zoals bij volleyballers en gewichtheffers

@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "patellofemoral-chondral-defect",
     name: "Patellofemoraal Chondraaldefect",
+    images: [
+        "./images/knee/chondraaldefect.jpg",
+    ],
     pathophysiology: `
 - Schade aan het kraakbeen binnen het kniegewricht
     `,

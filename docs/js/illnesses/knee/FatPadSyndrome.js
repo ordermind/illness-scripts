@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "infrapatellar-fat-pad-syndrome",
     name: "Fat Pad Syndrome",
+    images: [
+        "./images/knee/fat-pad-syndrome.jpg",
+    ],
     pathophysiology: `Impingement van het vetlichaam van Hoffa door hyperextensie of herhaalde extensie.`,
     epidemiology: `Komt vaker voor bij adolescenten.`,
     timeCourse: 'Klachten ontstaan soms geleidelijk, soms na een trauma.',

@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "osteochondritis-dissecans",
     name: "Osteochondritis dissecans (OD)",
+    images: [
+        "./images/knee/osteochondritis-dissecans.jpg",
+    ],
     pathophysiology: `
 - Bij osteochondritis dissecans sterft het kraakbeen en het ondergelegen stuk bot af waardoor er een losliggend ‘eilandje’ ontstaat. Dit wordt ook wel een OD haard genoemd. Het kleine, losgelaten stukje bot en kraakbeen kan los in het gewricht gaan liggen. Dit belemmert de beweging van het gewricht en veroorzaakt pijn. Het losliggende stuk kraakbeen veroorzaakt soms ook een ontstekingsreactie.
 - De oorzaak voor OD is nog niet duidelijk.

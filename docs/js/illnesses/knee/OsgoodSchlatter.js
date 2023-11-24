@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "osgood-schlatter",
     name: "Ziekte van Osgood-Schlatter",
+    images: [
+        "./images/knee/osgood-schlatter.jpg",
+    ],
     pathophysiology: `
 - Irritatie van de groeiplaat ter hoogte van het scheenbeen, vlak onder de knieschijf. De irritatie ontstaat vanwege <strong>overbelasting</strong>.
 - Verhoogt het risico op een latere tendinopathie van het lig. patellae

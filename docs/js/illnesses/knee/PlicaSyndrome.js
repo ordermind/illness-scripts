@@ -4,8 +4,11 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "plica-syndrome",
     name: "Plica Syndroom",
+    images: [
+        "./images/knee/plica.jpg",
+    ],
     pathophysiology: `
-- Irritatie van het synoviale membraam in de knie
+- Irritatie van het synoviale membraan in de knie
     `,
     epidemiology: `
 Klachten ontstaan soms na <strong>repeterende flexiebelasting</strong> van de knie, soms na een <strong>trauma</strong> of knieoperatie.

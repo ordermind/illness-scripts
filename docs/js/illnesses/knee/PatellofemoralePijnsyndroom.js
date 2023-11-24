@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "pfps",
     name: "Patellofemorale pijnsyndroom (PFPS)",
+    images: [
+        "./images/knee/pfps.jpg",
+    ],
     pathophysiology: `
 - De meest gestelde diagnose bij anterieure kniepijn.
 - Moeilijk te omschrijven diagnose, wordt gebruikt als geen andere duidelijke aandoening gevonden wordt

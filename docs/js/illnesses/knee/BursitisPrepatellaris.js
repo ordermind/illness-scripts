@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "bursitis-prepatellaris",
     name: "Bursitis Prepatellaris",
+    images: [
+        "./images/knee/bursitis-prepatellaris.jpg",
+    ],
     pathophysiology: `
 - Ontsteking van de prepatellare slijmbeurs
 - Bursitis prepatellaris (acuut of chronisch) is meestal het gevolg van stoten of veel knielen, zoals dat voorkomt bij bepaalde beroepen (stratenmakers, stoffeerders) of sporten (judo, worstelen).

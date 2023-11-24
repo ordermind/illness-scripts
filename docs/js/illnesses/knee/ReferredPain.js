@@ -4,8 +4,11 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "referred-pain",
     name: "Referred pain",
+    images: [
+        "./images/knee/referred-pain.jpg",
+    ],
     pathophysiology: `
-- Pijn veroorzaakt door aandoening buiten de knie, bijvoorbeeld de heup
+- Pijn veroorzaakt door aandoening buiten de knie, bijvoorbeeld de heup. Vanwege de segmentatie van het zenuwstelsel kan de pijn soms op een andere plek gevoeld worden dan waar de aandoening zit.
     `,
     epidemiology: `
 - Komt niet vaak voor

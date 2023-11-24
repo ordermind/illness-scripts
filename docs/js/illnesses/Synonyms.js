@@ -1,6 +1,7 @@
 const mapSynonyms = [
     ['zwelling', 'verdikking', 'ontsteking'],
     ['lokaliseerbaar', 'lokaliseerbare'],
+    ['repeterend', 'repeterende', 'herhalend', 'herhalende', 'herhaald', 'herhaalde'],
 ];
 
 export default function getAllSynonymsForTerm(term) {

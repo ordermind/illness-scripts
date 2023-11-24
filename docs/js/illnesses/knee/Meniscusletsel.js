@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "meniscus-injury",
     name: "Meniscusletsel",
+    images: [
+        "./images/knee/meniscusletsel.jpg",
+    ],
     pathophysiology: `
 - Meniscusletsel is de verzamelnaam voor een aantal verschillende complicaties aan de meniscus. Hieronder vallen bijvoorbeeld een meniscusscheur en een meniscectomie (het verwijderen van een deel van de meniscus).
 - Klachten ontstaan na knietrauma in het verleden

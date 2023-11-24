@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "itbs",
     name: "Iliotibiale Bandsyndroom (ITBS)",
+    images: [
+        "./images/knee/itbs.jpg",
+    ],
     description: "Ook bekend als tractus iliotibialis frictie syndroom, of \"Runner's knee\" (lopersknie)",
     pathophysiology: `
 - De tractus iliotibialis is een verdikt deel van de fascia lata en loopt van de crista iliaca anterior superior naar de laterale tibiacondyl. Door <strong>overmatig buigen en strekken</strong> van de knie ontstaat ter hoogte van de laterale femurcondyl irritatie van het tractusweefsel of van de onderliggende bursa

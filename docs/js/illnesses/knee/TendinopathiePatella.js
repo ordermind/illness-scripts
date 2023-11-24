@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "tendinopathie-patella",
     name: "Tendinopathie patellapees",
+    images: [
+        "./images/knee/jumpers-knee.jpg",
+    ],
     description: "Ook bekend als \"Jumper's knee\" (springersknie).",
     pathophysiology: `Tendinopathie van het lig. patellae.`,
     epidemiology: `

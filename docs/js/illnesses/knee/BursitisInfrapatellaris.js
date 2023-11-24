@@ -4,6 +4,9 @@ import RegularSymptom from "../RegularSymptom.js";
 export default new Illness({
     id: "bursitis-infrapatellaris",
     name: "Bursitis Infrapatellaris",
+    images: [
+        "./images/knee/bursitis-infrapatellaris.jpg",
+    ],
     pathophysiology: `
 - Irritatie van de infrapatellare bursa die vaak gepaard gaat met jumper's knee (tendinopathie van het lig. patellae)
     `,

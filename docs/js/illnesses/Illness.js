@@ -5,6 +5,7 @@ import RejectingSymptom from "./RejectingSymptom.js";
 export default class Illness {
     #id;
     #name;
+    #images;
     #description;
     #pathophysiology;
     #epidemiology;
@@ -17,6 +18,7 @@ export default class Illness {
     constructor({
         id,
         name,
+        images = [],
         description = '',
         epidemiology = '',
         pathophysiology = '',
@@ -28,6 +30,7 @@ export default class Illness {
     }) {
         this.#id = id;
         this.#name = name;
+        this.#images = images;
         this.#description = description;
         this.#epidemiology = epidemiology;
         this.#pathophysiology = pathophysiology;
@@ -48,6 +51,10 @@ export default class Illness {
 
     get name() {
         return this.#name;
+    }
+
+    get images() {
+        return this.#images;
     }
 
     get description() {
