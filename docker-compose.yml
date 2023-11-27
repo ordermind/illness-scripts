@@ -2,6 +2,7 @@
 #                          Generated on phpdocker.io                          #
 ###############################################################################
 version: "3"
+name: "illness-scripts"
 services:
   webserver:
     build: docker-images/apache
