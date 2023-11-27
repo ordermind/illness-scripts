@@ -1,7 +1,9 @@
+function massageText(text) {
+    return text.trim();
+}
+
 export default function themeIllnessContent(illness) {
     let content = '';
-
-
 
     if(illness.images.length) {
         content += `<div class="mb-3 text-center">`;
@@ -12,27 +14,27 @@ export default function themeIllnessContent(illness) {
     }
     content += `<h2 class="display-2 fs-3 mb-3">${illness.name}</h2>`;
     if(illness.description) {
-        content += `<p>${illness.description.split("\n").join("</p><p>")}</p>`
+        content += `<p>${massageText(illness.description)}</p>`
     }
 
     if(illness.pathophysiology) {
         content += `
 <h3 class="display-3 fs-4">Pathofysiologie</h3>
-<p>${illness.pathophysiology.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.pathophysiology)}</p>
 `;
     }
 
     if(illness.epidemiology) {
         content += `
 <h3 class="display-3 fs-4">Epidemiologie</h3>
-<p>${illness.epidemiology.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.epidemiology)}</p>
 `; 
     }
 
     if(illness.timeCourse) {
         content += `
 <h3 class="display-3 fs-4">Verloop</h3>
-<p>${illness.timeCourse.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.timeCourse)}</p>
 `; 
     }
 
@@ -55,21 +57,21 @@ export default function themeIllnessContent(illness) {
     if(illness.diagnostics) {
         content += `
 <h3 class="display-3 fs-4">Diagnostiek</h3>
-<p>${illness.diagnostics.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.diagnostics)}</p>
 `; 
     }
 
     if(illness.treatment) {
         content += `
 <h3 class="display-3 fs-4">Behandeling</h3>
-<p>${illness.treatment.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.treatment)}</p>
 `; 
     }
 
     if(illness.references) {
         content += `
 <h3 class="display-3 fs-4">Bronnen</h3>
-<p>${illness.references.split("\n").join("</p><p>")}</p>
+<p>${massageText(illness.references)}</p>
 `; 
     }
 

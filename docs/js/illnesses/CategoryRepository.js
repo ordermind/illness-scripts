@@ -1,6 +1,7 @@
 import Category from "./Category.js";
 
 const categories = [
+    new Category({id: "back", label: "Rug"}),
     new Category({id: "knee", label: "Knie"})
 ];
 

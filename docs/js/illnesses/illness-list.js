@@ -1,4 +1,9 @@
 export default {
+    back: await Promise.all([
+        import("./back/StructuralScoliosis.js").then(module => module.default),
+        import("./back/NonStructuralScoliosis.js").then(module => module.default),
+        import("./back/Scheuermann.js").then(module => module.default),
+    ]),
     knee: await Promise.all([
         import("./knee/OsgoodSchlatter.js").then(module => module.default),
         import("./knee/SindingLarsenJohansson.js").then(module => module.default),

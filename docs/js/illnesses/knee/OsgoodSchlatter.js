@@ -27,11 +27,14 @@ new RegularSymptom('Pijn bij tuberositas tibiae')
     `,
     treatment: `
 - Het syndroom van Osgood-Schlatter gaat in ruim 90% van de gevallen vanzelf over na de groeispurt. Maar dit duurt lang, soms een aantal maanden tot meer dan een jaar.
+
 - Behandeling lijkt op de behandeling van tendinopathie, met focus op het handhaven van de belasting en het opbouwen van kracht en effect door oefentherapie.
     `,
     references: `
 Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
+
 Cook, J., Rodas, G., McCall, A., Pruna, R., Kennedy, R., & Til, L. (2021). <em>Tendon injuries in football players: fc barcelona 2021 tendon guide</em>. FC Barcelona.
+
 Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
     `
 });

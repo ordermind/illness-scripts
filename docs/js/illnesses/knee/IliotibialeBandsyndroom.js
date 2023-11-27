@@ -10,7 +10,9 @@ export default new Illness({
     description: "Ook bekend als tractus iliotibialis frictie syndroom, of \"Runner's knee\" (lopersknie)",
     pathophysiology: `
 - De tractus iliotibialis is een verdikt deel van de fascia lata en loopt van de crista iliaca anterior superior naar de laterale tibiacondyl. Door <strong>overmatig buigen en strekken</strong> van de knie ontstaat ter hoogte van de laterale femurcondyl irritatie van het tractusweefsel of van de onderliggende bursa
+
 - Er bestaat geen consensus in de literatuur over de definitie van ITBS. ITBS is een overbelastingsblessure gekenmerkt door pijn ter hoogte van de laterale femurepicondyl.
+
 - Bij ITBS lijkt er een inflammatoir proces aanwezig in het weefsel onder de ITB. Waarschijnlijk betreft dit vetweefsel maar gezien de verschillende bevindingen is het niet uitgesloten dat er ook een wisselende anatomie is tussen individuen.
     `,
     symptoms: [
@@ -26,6 +28,7 @@ new RegularSymptom('Pijn ter hoogte van de laterale femurcondyl tijdens of na he
     `,
     references: `
 Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
+
 Van Berkel, S. (2010). <em>Mono-disciplinaire richtlijn Patellofemoraal pijnsyndroom</em>. Vereniging voor Sportgeneeskunde.
     `
 });

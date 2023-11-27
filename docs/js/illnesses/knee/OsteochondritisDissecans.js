@@ -25,10 +25,11 @@ new RegularSymptom('Pijn optreedt bij <strong>belastende activiteiten</strong> a
 - Soms volgt een MRI-scan van het gewricht om te bepalen in welk stadium de aandoening zich bevindt en hoe groot het (losgeraakte) stuk kraakbeen is.
     `,
     treatment: `
-- Indien de patiënt nog in de groei zit en de groeischijven nog niet gesloten zijn, bestaat er een grote kans dat er <strong>spontane genezing</strong> optreedt. Er mag meestal <strong>belast worden op geleide van de klachten</strong>. Er zal op verschillende momenten met een röntgenfoto gecontroleerd worden of er veranderingen optreden. Alleen bij volledige loslating van het boteilandje met het hierop vastzittende kraakbeen, bestaat er een reden een operatieve ingreep te verrichten. Er wordt dan een kijkoperatie uitgevoerd. Het botfragment wordt vastgemaakt waarbij een klein schroefje kan worden gebruikt, die onder het kraakbeenoppervlak komt te liggen.
+Indien de patiënt nog in de groei zit en de groeischijven nog niet gesloten zijn, bestaat er een grote kans dat er <strong>spontane genezing</strong> optreedt. Er mag meestal <strong>belast worden op geleide van de klachten</strong>. Er zal op verschillende momenten met een röntgenfoto gecontroleerd worden of er veranderingen optreden. Alleen bij volledige loslating van het boteilandje met het hierop vastzittende kraakbeen, bestaat er een reden een operatieve ingreep te verrichten. Er wordt dan een kijkoperatie uitgevoerd. Het botfragment wordt vastgemaakt waarbij een klein schroefje kan worden gebruikt, die onder het kraakbeenoppervlak komt te liggen.
     `,
     references: `
 Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
+
 Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
     `
 });

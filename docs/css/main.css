@@ -6,3 +6,7 @@ img {
 #search-result .result-item {
     cursor: pointer;
 }
+
+#illness-info p {
+    white-space: pre-wrap;
+}
