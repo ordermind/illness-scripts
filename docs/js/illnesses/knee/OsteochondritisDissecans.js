@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "osteochondritis-dissecans",
@@ -16,9 +15,9 @@ export default new Illness({
 - Vaker bij jongens dan bij meisjes
     `,
     timeCourse: 'Ontstaat vermoedelijk na herhaalde (micro)traumata bij actieve sportbeoefening.',
-    symptoms: [
-new RegularSymptom('Pijn optreedt bij <strong>belastende activiteiten</strong> als <strong>traplopen of sporten</strong>. Er kunnen ook wisselend slotklachten aanwezig zijn als het stukje bot loslaat.'),
-    ],
+    symptoms: `
+- Pijn optreedt bij <strong>belastende activiteiten</strong> als <strong>traplopen of sporten</strong>. Er kunnen ook wisselend slotklachten aanwezig zijn als het stukje bot loslaat.
+    `,
     diagnostics: `
 - Inspectie: Zwelling na belasting.
 - Röntgenfoto

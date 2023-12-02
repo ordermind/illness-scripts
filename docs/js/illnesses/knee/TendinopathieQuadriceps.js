@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "tendinopathie-quadriceps",
@@ -13,20 +12,19 @@ export default new Illness({
 - Komt vaak voor bij adolescenten
     `,
     timeCourse: 'Meestal geleidelijk, soms acuut door een val.',
-    symptoms: [
-new RegularSymptom('Pijn is vooral aanwezig bij <strong>peesbelastende sportactiviteiten</strong>, zoals aanzetten, afremmen, springen.'),
-new RegularSymptom('Pijn ter hoogte van de <strong>quadricepspees</strong>'),
-new RegularSymptom('Pijn ontstaat direct bij belasting en verdwijnt meestal ook bijna direct als de belasting ophoudt'),
-new RegularSymptom('Er is zelden pijn in rust'),
-new RegularSymptom('De pijn kan soms verminderen door herhaalde belasting (de "warm-up fenomeen"), maar er is vaak pijn op de dag na plyometrische activiteiten'),
-new RegularSymptom(
-`Stadia van pijn:
+    symptoms: `
+- Pijn is vooral aanwezig bij <strong>peesbelastende sportactiviteiten</strong>, zoals aanzetten, afremmen, springen.
+- Pijn ter hoogte van de <strong>quadricepspees</strong>
+- Pijn ontstaat direct bij belasting en verdwijnt meestal ook bijna direct als de belasting ophoudt
+- De pijn kan soms verminderen door herhaalde belasting (de "warm-up fenomeen"), maar er is vaak pijn op de dag na plyometrische activiteiten
+- Er is zelden pijn in rust
+
+Stadia van pijn:
     - Stadium 1: pijn na het sporten (en ochtendstijfheid de dag erna)
     - Stadium 2: pijn ook in het begin van het sporten
     - Stadium 3: pijn tijdens het sporten
     - Stadium 4: pijn ook tijdens ADL
-`)
-    ],
+    `,
     diagnostics: `
 - Inspectie: Geen zwelling bij het kniegewricht
 

@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "bursitis-prepatellaris",
@@ -12,10 +11,10 @@ export default new Illness({
 - Bursitis prepatellaris (acuut of chronisch) is meestal het gevolg van stoten of veel knielen, zoals dat voorkomt bij bepaalde beroepen (stratenmakers, stoffeerders) of sporten (judo, worstelen).
 `,
     timeCourse: `Vaak vrij abrupt na een periode van lange druk op de bursa (bijvoorbeeld veel op de knieën zitten).`,
-    symptoms: [
-new RegularSymptom('Pijn is vooral aanwezig bij (mechanische) <strong>druk op de bursa</strong>, dus ook bij flexie van de knie.'),
-new RegularSymptom('De acute vorm wordt gekenmerkt door een ontsteking, die meestal aseptisch is. Van een chronische vorm is sprake als de zwelling na een aantal weken nog aanwezig is of frequent recidiveert.'),
-    ],
+    symptoms: `
+- Pijn is vooral aanwezig bij (mechanische) <strong>druk op de bursa</strong>, dus ook bij flexie van de knie.
+- De acute vorm wordt gekenmerkt door een ontsteking, die meestal aseptisch is. Van een chronische vorm is sprake als de zwelling na een aantal weken nog aanwezig is of frequent recidiveert.
+    `,
     diagnostics: `
 - Inspectie: Vaak een duidelijke zwelling waarneembaar anterieur van de patella.
 - Inspectie: Bij een fluctuerende, prepatellair gelokaliseerde zwelling, al dan niet rood of pijnlijk. 

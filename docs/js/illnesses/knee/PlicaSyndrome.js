@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "plica-syndrome",
@@ -14,12 +13,12 @@ export default new Illness({
 Klachten ontstaan soms na <strong>repeterende flexiebelasting</strong> van de knie, soms na een <strong>trauma</strong> of knieoperatie.
     `,
     timeCourse: 'Klachten ontstaan soms geleidelijk, soms acuut.',
-    symptoms: [
-new RegularSymptom('Pijn bij actieve eindextensie of flexiebelastende activiteiten.'),
-new RegularSymptom('<strong>Popsensatie</strong> bij patellabelastende activiteiten'),
-new RegularSymptom('De plica kan pijnlijk worden ook bij activiteiten die alleen een <strong>kleine flexie</strong> vereisen, zoals bij <strong>wandelen</strong>'),
-new RegularSymptom('De symptomen lijken meer op een quadricepstendinopathie dan een patellatendinopathie vanwege de proximomediale lokatie van de pijn'),
-    ],
+    symptoms: `
+- Pijn bij actieve eindextensie of flexiebelastende activiteiten.
+- <strong>Popsensatie</strong> bij patellabelastende activiteiten
+- De plica kan pijnlijk worden ook bij activiteiten die alleen een <strong>kleine flexie</strong> vereisen, zoals bij <strong>wandelen</strong>
+- De symptomen lijken meer op een quadricepstendinopathie dan een patellatendinopathie vanwege de proximomediale lokatie van de pijn
+    `,
     diagnostics: `
 - Uitvragen: popsensatie (snapping sensation)
 - Inspectie: <strong>Zwelling</strong> bij het kniegewricht

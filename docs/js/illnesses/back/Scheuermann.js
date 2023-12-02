@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "scheuermann",
@@ -18,9 +17,9 @@ De oorzaak is onbekend.
 - 1/3 heeft ook een scoliose
     `,
     timeCourse: 'Klachten ontstaan geleidelijk',
-    symptoms: [
-new RegularSymptom('Hyperkyfose'),
-    ],
+    symptoms: `
+- Hyperkyfose
+    `,
     diagnostics: `
 - Versterkte thoracale kyfose ( = de bolle kromming van de wervelkolom in het borstgedeelte en sacrum)  > 45 graden
 

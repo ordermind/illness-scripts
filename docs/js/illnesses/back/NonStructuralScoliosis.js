@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "non_structural_scoliosis",
@@ -22,9 +21,9 @@ Oorzaken van non-structurele scoliose:
 Prevalentie: 2-4% (scoliose totaal)
     `,
     timeCourse: 'Klachten ontstaan geleidelijk',
-    symptoms: [
-new RegularSymptom('Zichtbare misvorming van de romp, wordt vaak door de ouders ontdekt'),
-    ],
+    symptoms: `
+- Zichtbare misvorming van de romp, wordt vaak door de ouders ontdekt
+    `,
     diagnostics: `
 - Verdwijnt bij voorover bukken, geen rotatie en structurele afwijkingen
 - Cobbse hoek < 10 graden

@@ -43,10 +43,11 @@ export default class IllnessRepository {
                 && this.#evaluateSingleFilter(illness.pathophysiology, pathophysiology)
                 && this.#evaluateSingleFilter(illness.epidemiology, epidemiology)
                 && this.#evaluateSingleFilter(illness.timeCourse, timeCourse)
+                && this.#evaluateSingleFilter(illness.symptoms, symptoms)
                 && this.#evaluateSingleFilter(illness.diagnostics, diagnostics)
                 && this.#evaluateSingleFilter(illness.treatment, treatment)
-                && (!symptoms.size || (relevance = illness.getSymptomRelevance(symptoms)) > 0)) {
-                    return new SearchResultItem(illness.id, illness, relevance);
+            ) {
+                return new SearchResultItem(illness.id, illness, relevance);
             }
 
             return null;

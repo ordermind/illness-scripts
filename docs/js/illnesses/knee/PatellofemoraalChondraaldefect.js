@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "patellofemoral-chondral-defect",
@@ -11,9 +10,9 @@ export default new Illness({
 - Schade aan het kraakbeen binnen het kniegewricht
     `,
     timeCourse: 'Ontstaat meestal na een trauma.',
-    symptoms: [
-new RegularSymptom('Pijn in de knie, de hoek van flexie wanneer de pijn optreedt is afhankelijk van defect.'),
-    ],
+    symptoms: `
+- Pijn in de knie, de hoek van flexie wanneer de pijn optreedt is afhankelijk van defect.
+    `,
     diagnostics: `
 - Inspectie: In de acute situatie zwelling van de knie.
 - Kraakbeenschade is meestal goed te zien op een <strong>MRI</strong> scan. Scheurtjes, losliggende stukken, de plaats en de grootte van het defect zijn allemaal te zien op een MRI scan

@@ -38,20 +38,11 @@ export default function themeIllnessContent(illness) {
 `; 
     }
 
-    if(illness.hasSymptoms()) {
-        content += `<h3 class="display-3 fs-4">Symptomen</h3>`;
-
-        if(illness.symptoms.regular.length) {
-            illness.symptoms.regular.forEach(item => content += `<p>- ${item.content}</p>`);
-        }
-
-        if(illness.symptoms.key.length) {
-            content += '<h4 class="display-4 fs-5">Sleutelsymptomen</h4>' + illness.symptoms.key.map(item => `<p>- ${item.content}</p>`);
-        }
-
-        if(illness.symptoms.reject.length) {
-            content += '<h4 class="display-4 fs-5">Uitsluitende symptomen</h4>' + illness.symptoms.reject.map(item => `<p>- ${item.content}</p>`);
-        }
+    if(illness.symptoms) {
+        content += `
+<h3 class="display-3 fs-4">Symptomen</h3>
+<p>${massageText(illness.symptoms)}</p>
+`;
     }
 
     if(illness.diagnostics) {

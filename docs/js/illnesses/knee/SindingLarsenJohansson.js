@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "sinding-larsen-johansson",
@@ -15,10 +14,10 @@ export default new Illness({
 - Komt niet vaak voor
     `,
     timeCourse: 'Klachten ontstaan geleidelijk',
-    symptoms: [
-new RegularSymptom('Pijn tijdens <strong>peesbelastende (sport)activiteiten</strong>, zoals aanzetten, afremmen, springen.'),
-new RegularSymptom('Pijn bij onderkant van de patella')
-    ],
+    symptoms: `
+- Pijn tijdens <strong>peesbelastende (sport)activiteiten</strong>, zoals aanzetten, afremmen, springen.
+- Pijn bij onderkant van de patella
+    `,
     diagnostics: `
 - Palpatie: Met één vinger lokaliseerbare pijn.
     `,

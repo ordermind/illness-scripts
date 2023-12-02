@@ -1,7 +1,3 @@
-import KeySymptom from "./KeySymptom.js";
-import RegularSymptom from "./RegularSymptom.js";
-import RejectingSymptom from "./RejectingSymptom.js";
-
 export default class Illness {
     #id;
     #name;
@@ -23,7 +19,7 @@ export default class Illness {
         epidemiology = '',
         pathophysiology = '',
         timeCourse = '',
-        symptoms = [],
+        symptoms = '',
         diagnostics = '',
         treatment = '',
         references = '',
@@ -35,11 +31,7 @@ export default class Illness {
         this.#epidemiology = epidemiology;
         this.#pathophysiology = pathophysiology;
         this.#timeCourse = timeCourse;
-        this.#symptoms = {
-            regular: symptoms.filter(symptom => symptom instanceof RegularSymptom),
-            key: symptoms.filter(symptom => symptom instanceof KeySymptom),
-            reject: symptoms.filter(symptom => symptom instanceof RejectingSymptom)
-        };
+        this.#symptoms = symptoms;
         this.#diagnostics = diagnostics;
         this.#treatment = treatment;
         this.#references = references;
@@ -87,40 +79,5 @@ export default class Illness {
 
     get references() {
         return this.#references;
-    }
-
-    #hasSymptom(symptoms, searchTerms) {
-        for (const symptom of symptoms) {
-            for (const term of searchTerms) {
-                if(symptom.content.toUpperCase().indexOf(term.toUpperCase()) > -1) {
-                    return true;
-                }
-            }
-        }
-
-        return false;
-    }
-
-    getSymptomRelevance(searchTerms) {
-        // If there are rejecting symptoms present, return 0
-        if(this.#hasSymptom(this.#symptoms.reject, searchTerms)) {
-            return 0;
-        }
-
-        // If there are key symptoms present, return 2
-        if(this.#hasSymptom(this.#symptoms.key, searchTerms)) {
-            return 2;
-        }
-
-        // If there are other matching symptoms present, return 1
-        if(this.#hasSymptom(this.#symptoms.regular, searchTerms)) {
-            return 1;
-        }
-
-        return 0;
-    }
-
-    hasSymptoms() {
-        return this.symptoms.regular.length || this.symptoms.key.length || this.symptoms.reject.length;
     }
 }

@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "osgood-schlatter",
@@ -16,10 +15,10 @@ export default new Illness({
 - Klachten ontstaan tussen 10-15 jaar; vaker bij jongens dan bij meisjes
     `,
     timeCourse: 'Klachten ontstaan geleidelijk',
-    symptoms: [
-new RegularSymptom('Pijn tijdens <strong>peesbelastende (sport)activiteiten</strong>, zoals aanzetten, afremmen, springen.'),
-new RegularSymptom('Pijn bij tuberositas tibiae')
-    ],
+    symptoms: `
+- Pijn tijdens <strong>peesbelastende (sport)activiteiten</strong>, zoals aanzetten, afremmen, springen.
+- Pijn bij tuberositas tibiae
+    `,
     diagnostics: `
 - Palpatie: Met één vinger lokaliseerbare pijn. 
 - (druk)pijnlijke zwelling ter hoogte van tuberositas tibiae, veelal unilateraal.

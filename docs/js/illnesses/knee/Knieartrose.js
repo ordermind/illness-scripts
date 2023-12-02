@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "knee-arthrosis",
@@ -15,10 +14,10 @@ export default new Illness({
 - Geschiedenis van patellofemorale pijnsyndroom (PFPS) op jonge leeftijd (hier zijn verschillende meningen over)
     `,
     timeCourse: 'Klachten ontstaan meestal geleidelijk',
-    symptoms: [
-new RegularSymptom('Pijn bij beweging'),
-new RegularSymptom('Beperkte flexie of extensie')
-    ],
+    symptoms: `
+- Pijn bij beweging
+- Beperkte flexie of extensie
+    `,
     diagnostics: `
 Criteria knieartrose (NICE-richtlijn Osteoarthritis):
 

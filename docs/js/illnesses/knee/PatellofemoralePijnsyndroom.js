@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "pfps",
@@ -21,13 +20,13 @@ export default new Illness({
 - De incidentie is 7% in de gemiddelde populatie, maar kan oplopen tot 40% in de actieve populatie.
     `,
     timeCourse: 'Klachten ontstaan geleidelijk',
-    symptoms: [
-new RegularSymptom('Pijn achter of rond de patella zonder aanwijzingen voor andere aandoeningen. De pijn verergert vaak bij <strong>lang zitten met gebogen knieën</strong>, hurken, knielen, traplopen of fietsen en vermindert bij rust en strekken van de knie.'),
-new RegularSymptom('Pijn bij kracht zetten met gebogen knieën'),
-new RegularSymptom('Bij sporters met PFPS is vaak toename van symptomen bij activiteiten die een <strong>lage peesbelasting</strong> veroorzaken, zoals wandelen of fietsen'),
-new RegularSymptom('De <strong>pijn neemt af in extensie</strong>. Patiënten met PFPS staan graag met gestrekte knieën en lopen graag op schoenen met platte zolen.'),
-new RegularSymptom('Soms zijn crepitaties, pseudoslotklachten of giving way aanwezig.'),
-    ],
+    symptoms: `
+- Pijn achter of rond de patella zonder aanwijzingen voor andere aandoeningen. De pijn verergert vaak bij <strong>lang zitten met gebogen knieën</strong>, hurken, knielen, traplopen of fietsen en vermindert bij rust en strekken van de knie.
+- Pijn bij kracht zetten met gebogen knieën
+- Bij sporters met PFPS is vaak toename van symptomen bij activiteiten die een <strong>lage peesbelasting</strong> veroorzaken, zoals wandelen of fietsen
+- De <strong>pijn neemt af in extensie</strong>. Patiënten met PFPS staan graag met gestrekte knieën en lopen graag op schoenen met platte zolen.
+- Soms zijn crepitaties, pseudoslotklachten of giving way aanwezig
+    `,
     diagnostics: `
 - Inspectie in stand: Hoe is de stand van de voet? Hoe is de stand van het onderbeen ten opzichte van het bovenbeen?
 

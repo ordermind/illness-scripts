@@ -1,5 +1,4 @@
 import Illness from "../Illness.js";
-import RegularSymptom from "../RegularSymptom.js";
 
 export default new Illness({
     id: "structural_scoliosis",
@@ -19,9 +18,9 @@ Oorzaken van structurele scoliose:
 Prevalentie: 2-4% (scoliose totaal)
     `,
     timeCourse: 'Klachten ontstaan geleidelijk tijdens de groei',
-    symptoms: [
-new RegularSymptom('Zichtbare misvorming van de romp, wordt vaak door de ouders ontdekt'),
-    ],
+    symptoms: `
+- Zichtbare misvorming van de romp, wordt vaak door de ouders ontdekt
+    `,
     diagnostics: `
 - Bij voorover bukken niet-corrigerende gibbus of torsie
 - Structurele verandering in wervels (röntgenfoto)
