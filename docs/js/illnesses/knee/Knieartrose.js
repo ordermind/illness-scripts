@@ -10,8 +10,11 @@ export default new Illness({
 - Verslijting van het kniegewricht
     `,
     epidemiology: `
-- Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening
+- Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en de meest voorkomende vorm van artrose is knieartrose
+- Prevalentie in 2021: 762.700
+- Incidentie in 2021: 43.700
 - Leeftijd 45 jaar of ouder
+- Vaker bij vrouwen dan bij mannen
 - Geschiedenis van patellofemorale pijnsyndroom (PFPS) op jonge leeftijd (hier zijn verschillende meningen over)
     `,
     timeCourse: 'Klachten ontstaan meestal geleidelijk',
@@ -49,5 +52,7 @@ Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, 
 Van Berkel, S. (2010). <em>Mono-disciplinaire richtlijn Patellofemoraal pijnsyndroom</em>. Vereniging voor Sportgeneeskunde.
 
 Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
+
+Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 7 december 2023, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
     `
 });

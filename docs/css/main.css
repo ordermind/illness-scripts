@@ -3,6 +3,10 @@ img {
     height: auto;
 }
 
+a {
+    color: #f1e5ff;
+}
+
 #search-result .result-item {
     cursor: pointer;
 }

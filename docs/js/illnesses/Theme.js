@@ -1,10 +1,10 @@
-import { marked } from "../../js/marked.esm.min.js";
+import markdownParser from "../../js/markdown-parser.js";
 
 /**
  * Renders markdown text.
  */
 function massageText(text) {
-    return marked.parse(text.trim());
+    return markdownParser.parse(text.trim());
 }
 
 export default function themeIllnessContent(illness) {
