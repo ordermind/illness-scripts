@@ -24,7 +24,7 @@ export default class IllnessRepository {
         return false;
     }
 
-    #searchInCategory(category,
+    #searchInRegion(region,
     {
         name = new Set(), 
         pathophysiology = new Set(), 
@@ -35,7 +35,7 @@ export default class IllnessRepository {
         treatment = new Set()
     },
     ) {
-        const searchResult = this.illnesses[category].map(illness => {
+        const searchResult = this.illnesses[region].map(illness => {
             let relevance = 1;
 
             if(
@@ -70,16 +70,16 @@ export default class IllnessRepository {
         return filters;
     }
 
-    search(categoryFilter, filters) {
+    search(regionFilter, filters) {
         const filtersWithSynonyms = this.#addSynonymsToFilters(filters);
 
-        if(categoryFilter) {
-            return this.#searchInCategory(categoryFilter, filtersWithSynonyms);
+        if(regionFilter) {
+            return this.#searchInRegion(regionFilter, filtersWithSynonyms);
         }
 
         let allSearchResults = {};
-        for(const category of Object.keys(this.illnesses)) {
-            allSearchResults = {...allSearchResults, ...this.#searchInCategory(category, filtersWithSynonyms)};
+        for(const region of Object.keys(this.illnesses)) {
+            allSearchResults = {...allSearchResults, ...this.#searchInRegion(region, filtersWithSynonyms)};
         }
 
         return allSearchResults;

@@ -1,10 +1,10 @@
 import Illness from "../Illness.js";
 
 export default new Illness({
-    id: "knee-arthrosis",
-    name: "Knieartrose",
+    id: "hip-arthrosis",
+    name: "Heupartrose",
     images: [
-        "./images/knee/knieartrose.jpg",
+        "./images/hip/heupartrose.jpg",
     ],
     pathophysiology: `
 Verslechting van de kwaliteit van het kraakbeen waardoor structurele veranderingen in het gewricht ontstaan, zoals:
@@ -27,14 +27,13 @@ Risicofactoren:
 - Genen
 - Overgewicht
 - Hormonale factoren
-- Geschiedenis van patellofemorale pijnsyndroom (PFPS) op jonge leeftijd (hier zijn verschillende meningen over)
     `,
     epidemiology: `
 <img src="./images/knee/Jaarprevalentie-artrose-in-huisartsenpraktijk-2021.png" />
 
-- Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en de <strong>meest voorkomende</strong> vorm van artrose is knieartrose.
-- Prevalentie in 2021: 4,36%
-- Incidentie in 2021: 0,25%
+- Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en heupartrose is daar een vaak voorkomende variant van.
+- Prevalentie in 2021: 2,78%
+- Incidentie in 2021: 0,16%
 - Leeftijd 45 jaar of ouder
 - Vaker bij vrouwen dan bij mannen
     `,
@@ -44,16 +43,19 @@ Risicofactoren:
 - Beperkte flexie of extensie
     `,
     diagnostics: `
-Criteria knieartrose (ACR):
+Criteria heupartrose (ACR):
 
-Pijn in de knie in combinatie met ten minste 3 van de volgende kenmerken:
+Pijn in de heup in combinatie met de volgende kenmerken:
+- endorotatie van de heup < 15°
+- flexie van de heup ≤ 115°
 
+<em>of</em>
+
+Pijn in de heup in combinatie met de volgende kenmerken:
 - leeftijd > 45 jaar
-- ochtendstijfheid < 30 minuten
-- crepiteren (een krakend geluid bij het bewegen)
-- pijn bij palpatie van het bot
-- benige zwelling
-- geen warmte bij palpatie
+- ochtendstijfheid van de heup ≤ 60 minuten
+- pijn bij endorotatie van de heup
+- endorotatie van de heup ≥ 15°
     `,
     treatment: `
 Indicatie voor fysiotherapie wanneer:
@@ -81,13 +83,7 @@ Indicatie voor fysiotherapie wanneer:
 - Gewichtsreductie bij overgewicht of obesitas
     `,
     references: `
-Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
-
 Kampshoff, C.S., Peter, W.F.H., Van Doormaal, M.C.M., Knoop, J., Meerhoff, G.A., & Vliet Vlieland, T.P.M. (2018). <em>KNGF-richtlijn Artrose heup-knie</em>. Het Koninklijk Nederlands Genootschap voor Fysiotherapie. Geraadpleegd op 7 december 2023, van https://www.kngf.nl/kennisplatform/richtlijnen/artrose-heup-knie
-
-Van Berkel, S. (2010). <em>Mono-disciplinaire richtlijn Patellofemoraal pijnsyndroom</em>. Vereniging voor Sportgeneeskunde.
-
-Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
 
 Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 7 december 2023, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
     `

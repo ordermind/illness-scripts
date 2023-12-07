@@ -1,4 +1,4 @@
-export default class Category {
+export default class Region {
     #id;
     #label;
     #images;

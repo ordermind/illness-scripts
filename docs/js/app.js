@@ -1,8 +1,8 @@
-import CategoryRepository from "./illnesses/CategoryRepository.js";
+import RegionRepository from "./illnesses/RegionRepository.js";
 import IllnessRepository from "./illnesses/IllnessRepository.js";
 import themeIllnessContent from "./illnesses/Theme.js";
 
-const categoryRepository = new CategoryRepository();
+const regionRepository = new RegionRepository();
 const illnessRepository = new IllnessRepository();
 
 let currentSearchResults = {};
@@ -50,14 +50,14 @@ function displayIllnessInfoFromSearchResult(illnessId) {
     wrapper.appendChild(element);
 }
 
-function createCategoryRadioButtons() {
-    const categorySelect = document.getElementById('select-categories');
+function createRegionSelectOptions() {
+    const regionSelect = document.getElementById('select-region');
 
-    categoryRepository.categories.forEach(category => {
+    regionRepository.regions.forEach(region => {
         const option = document.createElement("option");
-        option.value = category.id;
-        option.innerHTML = category.label;
-        categorySelect.appendChild(option);
+        option.value = region.id;
+        option.innerHTML = region.label;
+        regionSelect.appendChild(option);
     });
 }
 
@@ -70,7 +70,7 @@ function submitSearchForm(e) {
 
     const formData = Object.fromEntries(new FormData(e.target));
 
-    currentSearchResults = illnessRepository.search(formData.category, formData);
+    currentSearchResults = illnessRepository.search(formData.region, formData);
 
     clearSearchResults();
     clearIllnessInfo();
@@ -107,7 +107,7 @@ function addClearHandler() {
     } 
 }
 
-createCategoryRadioButtons();
+createRegionSelectOptions();
 addSubmitHandler();
 addClearHandler();
 document.getElementById('submit-filters').click();
