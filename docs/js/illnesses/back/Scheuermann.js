@@ -22,28 +22,29 @@ De oorzaak is onbekend.
     `,
     diagnostics: `
 - Versterkte thoracale kyfose ( = de bolle kromming van de wervelkolom in het borstgedeelte en sacrum)  > 45 graden
-
 - Vaak compensatoire lumbale en cervicale lordose ( = de holle kromming van de wervelkolom in de cervicale en lumbale gedeelten)
-
 - Bij extensie van de wervelkolom bewegen de wervels niet mee
     `,
     treatment: `
-<strong>Fysiotherapie</strong> (bij milde vorm en in vroeg stadium) 
-    - Strekken van de hamstrings
-    - Strekken en versterken van de 'rompstrekkers'
-    - Geen effect op het verloop, wel op verminderen pijnklachten (16%-32%)
+<h4 class="list-title">Fysiotherapie (bij milde vorm en in vroeg stadium) </h4>
 
-<strong>Brace</strong>
-    - Positieve voorspellers:
-        - Flexibele kyfose
-        - Kyfose < 65 graden
-        - Brace zorgt voor afname kyfose van > 15 graden
-        - Kind nog minstens één jaar doorgroeien
-    - Zestien tot 23 uur per dag dragen, 18 maanden lang. Daarna langzaam afbouwen.
+- Strekken van de hamstrings
+- Strekken en versterken van de 'rompstrekkers'
+- Geen effect op het verloop, wel op verminderen pijnklachten (16%-32%)
 
-<strong>Operatie</strong>
-    - Kyfose van > 70 graden, welke niet gecorrigeerd kan worden door een brace
-    - Pijnklachten bij activiteiten, ondanks gebruik van medicatie, langer dan 6 maanden
-    - Grote zorgen van de patiënt over fysieke verschijning
+<h4 class="list-title">Brace</h4>
+
+- Positieve voorspellers:
+    - Flexibele kyfose
+    - Kyfose < 65 graden
+    - Brace zorgt voor afname kyfose van > 15 graden
+    - Kind nog minstens één jaar doorgroeien
+- Zestien tot 23 uur per dag dragen, 18 maanden lang. Daarna langzaam afbouwen.
+
+<h4 class="list-title">Operatie</h4>
+
+- Kyfose van > 70 graden, welke niet gecorrigeerd kan worden door een brace
+- Pijnklachten bij activiteiten, ondanks gebruik van medicatie, langer dan 6 maanden
+- Grote zorgen van de patiënt over fysieke verschijning
     `,
 });

@@ -10,6 +10,7 @@ export default new Illness({
 - Verslijting van het kniegewricht
     `,
     epidemiology: `
+- Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening
 - Leeftijd 45 jaar of ouder
 - Geschiedenis van patellofemorale pijnsyndroom (PFPS) op jonge leeftijd (hier zijn verschillende meningen over)
     `,
@@ -34,8 +35,7 @@ De diagnose wordt waarschijnlijker als ook volgende symptomen aanwezig zijn:
 - benige verbreding van het kniegewricht
     `,
     treatment: `
-- 30 min dagelijks matig intensief bewegen (4 - 6,5 MET).
-  Voorbeelden:
+- 30 min dagelijks matig intensief bewegen (4 - 6,5 MET). Voorbeelden:
     - Wandelen op gemiddeld tempo (5 kilometer per uur) = 4 MET
     - Fietsen op gemiddeld tempo (16 kilometer per uur) = 6,5 MET
     - Huishoudelijke klusjes (denk aan stofzuigen, ramen zemen etc.) = 4 MET

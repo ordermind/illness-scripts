@@ -26,7 +26,6 @@ export default new Illness({
     `,
     treatment: `
 - Het syndroom van Osgood-Schlatter gaat in ruim 90% van de gevallen vanzelf over na de groeispurt. Maar dit duurt lang, soms een aantal maanden tot meer dan een jaar.
-
 - Behandeling lijkt op de behandeling van tendinopathie, met focus op het handhaven van de belasting en het opbouwen van kracht en effect door oefentherapie.
     `,
     references: `

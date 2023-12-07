@@ -10,10 +10,12 @@ export default new Illness({
 - Zijdelinge kromming van de wervelkolom die komt door omstandigheden anders dan de groei van de wervels.
 
 Oorzaken van non-structurele scoliose:
-- Beenlengteverschil
-    < 2 cm is normaal
-    > 3 cm is waarneembaar
-    < 5 cm niet-operatief op te vangen (langzamerhand een zooltje opbouwen zodat het niet in een keer teveel wordt)
+- Beenlengteverschil:
+<ul class="list-unstyled">
+    <li>< 2 cm is normaal</li>
+    <li>> 3 cm is waarneembaar</li>
+    <li>< 5 cm niet-operatief op te vangen (langzamerhand een zooltje opbouwen zodat het niet in een keer teveel wordt)</li>
+</ul>
 - Fysiologisch normaal bij groeiend kind
 - Houding
     `,
