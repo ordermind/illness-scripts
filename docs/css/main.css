@@ -19,3 +19,13 @@ a {
     font-size: 1.1rem;
     font-weight: bold;
 }
+
+.trigger {
+    cursor: pointer;
+}
+
+.filter-element {
+    display: inline-block;
+    width: 12.5rem;
+    margin: 0 1rem 1rem 0;
+}
