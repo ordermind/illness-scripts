@@ -19,7 +19,7 @@ export default new Illness({
 - De pijn kan soms verminderen door herhaalde belasting (de "warm-up fenomeen"), maar er is vaak pijn op de dag na plyometrische activiteiten
 - Er is zelden pijn in rust
 
-<h4 class="list-title">Stadia van pijn</h4>
+#### Stadia van pijn
 
 - Stadium 1: pijn na het sporten (en ochtendstijfheid de dag erna)
 - Stadium 2: pijn ook in het begin van het sporten

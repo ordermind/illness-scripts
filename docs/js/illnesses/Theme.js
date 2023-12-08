@@ -17,56 +17,56 @@ export default function themeIllnessContent(illness) {
         }
         content += `</div>`;
     }
-    content += `<h2 class="display-2 fs-3 mb-3">${illness.name}</h2>`;
+    content += `<h2 class="display-2 fs-5 mb-3 fw-bold text-uppercase">${illness.name}</h2>`;
     if(illness.description) {
         content += `${massageText(illness.description)}`
     }
 
     if(illness.pathophysiology) {
         content += `
-<h3 class="display-3 fs-4">Pathofysiologie</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Pathofysiologie</h3>
 ${massageText(illness.pathophysiology)}
 `;
     }
 
     if(illness.epidemiology) {
         content += `
-<h3 class="display-3 fs-4">Epidemiologie</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Epidemiologie</h3>
 ${massageText(illness.epidemiology)}
 `; 
     }
 
     if(illness.timeCourse) {
         content += `
-<h3 class="display-3 fs-4">Verloop</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Verloop</h3>
 ${massageText(illness.timeCourse)}
 `; 
     }
 
     if(illness.symptoms) {
         content += `
-<h3 class="display-3 fs-4">Symptomen</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Symptomen</h3>
 ${massageText(illness.symptoms)}
 `;
     }
 
     if(illness.diagnostics) {
         content += `
-<h3 class="display-3 fs-4">Diagnostiek</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Diagnostiek</h3>
 ${massageText(illness.diagnostics)}
 `; 
     }
 
     if(illness.treatment) {
         content += `
-<h3 class="display-3 fs-4">Behandeling</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Behandeling</h3>
 ${massageText(illness.treatment)}
 `; 
     }
 
     if(illness.references) {
         content += `
-<h3 class="display-3 fs-4">Bronnen</h3>
+<h3 class="display-3 fs-4 bg-light text-dark p-2">Bronnen</h3>
 ${massageText(illness.references)}
 `; 
     }

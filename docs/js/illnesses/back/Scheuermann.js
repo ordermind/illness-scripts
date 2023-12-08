@@ -26,13 +26,13 @@ De oorzaak is onbekend.
 - Bij extensie van de wervelkolom bewegen de wervels niet mee
     `,
     treatment: `
-<h4 class="list-title">Fysiotherapie (bij milde vorm en in vroeg stadium) </h4>
+#### Fysiotherapie (bij milde vorm en in vroeg stadium)
 
 - Strekken van de hamstrings
 - Strekken en versterken van de 'rompstrekkers'
 - Geen effect op het verloop, wel op verminderen pijnklachten (16%-32%)
 
-<h4 class="list-title">Brace</h4>
+#### Brace
 
 - Positieve voorspellers:
     - Flexibele kyfose
@@ -41,7 +41,7 @@ De oorzaak is onbekend.
     - Kind nog minstens één jaar doorgroeien
 - Zestien tot 23 uur per dag dragen, 18 maanden lang. Daarna langzaam afbouwen.
 
-<h4 class="list-title">Operatie</h4>
+#### Operatie
 
 - Kyfose van > 70 graden, welke niet gecorrigeerd kan worden door een brace
 - Pijnklachten bij activiteiten, ondanks gebruik van medicatie, langer dan 6 maanden

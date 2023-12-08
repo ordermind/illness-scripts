@@ -15,11 +15,6 @@ a {
     margin-bottom: 0.5rem;
 }
 
-.list-title {
-    font-size: 1.1rem;
-    font-weight: bold;
-}
-
 .trigger {
     cursor: pointer;
 }
