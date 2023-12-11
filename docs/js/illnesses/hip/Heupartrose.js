@@ -158,7 +158,7 @@ Indicatie voor fysiotherapie wanneer:
 
 ##### De behandelmogelijkheden
 - De klachten als gevolg van artrose kunnen met conservatieve behandelopties aanmerkelijk verminderen (dus zonder operatief ingrijpen), waardoor veel mensen met heup- en/ of knieartrose geen gewrichtsvervangende operatie hoeven te ondergaan.
-- De belangrijkste aanbevolen conservatieve (niet-operatieve) behandelopties zijn voorlichting/advies gericht op zelfmanagement (bewegen, gezonde leefstijl), fysio-/oefentherapie, pijnmedicatie (maar hierbij kunnen bijwerkingen optreden) en afvallen indien sprake is van overgewicht/obesitas.
+- De belangrijkste aanbevolen conservatieve (niet-operatieve) behandelopties zijn voorlichting/advies gericht op <strong>zelfmanagement</strong> (bewegen, gezonde leefstijl), <strong>fysio-/oefentherapie</strong>, <strong>pijnmedicatie</strong> (maar hierbij kunnen bijwerkingen optreden) en <strong>afvallen</strong> indien sprake is van overgewicht/obesitas.
 - Bij onvoldoende afname van pijn en verbetering in dagelijks functioneren na een aanbevolen periode van optimaal gebruik van aanbevolen conservatieve behandelopties, is een gewrichtsvervangende operatie een optie in een eindstadium van artrose.
 
 #### Oefenprogramma
