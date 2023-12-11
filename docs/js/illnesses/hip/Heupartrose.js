@@ -41,9 +41,25 @@ Risicofactoren:
     symptoms: `
 - Pijn bij beweging
 - Beperkte flexie of extensie
+
+De pijn treedt aanvankelijk op bij het starten van bewegen en bij langdurig belasten; de pijn neemt vaak toe naarmate de dag vordert. In latere fasen is er ook pijn in rust en nachtelijke pijn. Stijfheid bij artrose is meestal startstijfheid, die na enkele minuten verdwenen is. 
     `,
     diagnostics: `
-Criteria heupartrose (ACR):
+#### Klinisch beeld
+
+- leeftijd 45 jaar of ouder
+- pijnklachten langer dan drie maanden en met name bij belasten
+- bij zitten geen verergering van de pijn
+- pijn in de lies of het dijbeen en soms in de bil of lage rug
+- verminderde endorotatie, exorotatie, extensie en flexie
+- een benig eindgevoel
+- krachtsverlies van de heupabductoren
+- startpijn en/of -stijfheid bij bewegen
+- pijn bij palpatie over het <em>ligamentum inguinale</em>
+
+Soms treedt er in de heup een ontstekingsreactie op van het synovium, een opvlamming of flare, die tot pijn, zwelling en temperatuurverhoging in het gewricht kan leiden. 
+
+#### Criteria heupartrose (ACR):
 
 Pijn in de heup in combinatie met de volgende kenmerken:
 - endorotatie van de heup < 15°
@@ -52,7 +68,7 @@ Pijn in de heup in combinatie met de volgende kenmerken:
 <em>of</em>
 
 Pijn in de heup in combinatie met de volgende kenmerken:
-- leeftijd > 45 jaar
+- leeftijd >= 45 jaar
 - ochtendstijfheid van de heup ≤ 60 minuten
 - pijn bij endorotatie van de heup
 - endorotatie van de heup ≥ 15°

@@ -42,17 +42,34 @@ Risicofactoren:
     symptoms: `
 - Pijn bij beweging
 - Beperkte flexie of extensie
+
+De pijn treedt aanvankelijk op bij het starten van bewegen en bij langdurig belasten; de pijn neemt vaak toe naarmate de dag vordert. In latere fasen is er ook pijn in rust en nachtelijke pijn. Stijfheid bij artrose is meestal startstijfheid, die na enkele minuten verdwenen is. 
     `,
     diagnostics: `
-Criteria knieartrose (ACR):
+#### Klinisch beeld
+
+- leeftijd 45 jaar of ouder
+- pijnklachten langer dan drie maanden en ochtendstijfheid korter dan 30 minuten
+- pijnklachten bij belasten
+- crepitaties bij bewegingsonderzoek
+- gevoeligheid van de benige structuren
+- benige zwellingen aan de gewrichtsranden (osteofyten)
+- geen warmte bij palpatie
+- krachtsverlies van de knie-extensoren
+- startpijn en/of -stijfheid bij bewegen
+
+Naast benige zwelling kan er sprake zijn van wekedelenzwelling of intra-articulaire zwelling (hydrops of synovitis).
+Soms treedt er in de knie een ontstekingsreactie op van het synovium, een opvlamming of flare, die tot pijn, zwelling en temperatuurverhoging in het gewricht kan leiden. 
+
+#### Criteria knieartrose (ACR):
 
 Pijn in de knie in combinatie met ten minste 3 van de volgende kenmerken:
 
-- leeftijd > 45 jaar
+- leeftijd >= 45 jaar
 - ochtendstijfheid < 30 minuten
 - crepiteren (een krakend geluid bij het bewegen)
 - pijn bij palpatie van het bot
-- benige zwelling
+- benige zwellingen aan de gewrichtsranden (osteofyten)
 - geen warmte bij palpatie
     `,
     treatment: `
