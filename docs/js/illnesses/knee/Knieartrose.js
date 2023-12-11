@@ -14,13 +14,13 @@ Verslechting van de kwaliteit van het kraakbeen waardoor structurele verandering
 - osteofytvorming (botuitgroeieing, meestal puntig)
 - verandering in weke delen (kapsel, pezen, spieren)
 
-Mogelijke oorzaken:
+#### Mogelijke oorzaken
 
 - Trauma of operatie
 - Ontsteking (b.v. RA) of infectie
 - Idiopathish
 
-Risicofactoren:
+#### Risicofactoren
 
 - Hoge leeftijd (45 jaar of ouder)
 - Vrouwelijk geslacht
@@ -28,6 +28,28 @@ Risicofactoren:
 - Overgewicht
 - Hormonale factoren
 - Geschiedenis van patellofemorale pijnsyndroom (PFPS) op jonge leeftijd (hier zijn verschillende meningen over)
+
+#### Prognostische factoren
+
+##### Functies en anatomische eigenschappen
+- veel pijn
+- verminderde kracht m. quadriceps
+- grote radiologisch aantoonbare afwijkingen bij initiële presentatie
+
+##### Activiteiten en participatie
+- veel beperkingen in dagelijkse activiteiten
+
+##### Persoonlijke en omgevingsfactoren
+- hoge leeftijd
+- vrouwelijk geslacht
+- genetische aanleg
+- overgewicht
+- slechtere algehele gezondheid en minder vitaliteit
+- musculoskeletale comorbiditeit:
+    - aandoening van andere gewrichten dan het aangedane gewricht, zoals artrose van de (andere) heup of knie, lage rug, handen, voeten
+- overige comorbiditeit, bijvoorbeeld:
+    - hart- of longaandoeningen, diabetes, visus- of gehoorproblemen
+- psychosociaal functioneren (depressie, angst, copingstijl, cognitie)
     `,
     epidemiology: `
 <img src="./images/knee/Jaarprevalentie-artrose-in-huisartsenpraktijk-2021.png" />
@@ -38,7 +60,9 @@ Risicofactoren:
 - Leeftijd 45 jaar of ouder
 - Vaker bij vrouwen dan bij mannen
     `,
-    timeCourse: 'Klachten ontstaan meestal geleidelijk',
+    timeCourse: `
+Over het algemeen is artrose een langzaam voortschrijdend proces, waarbij perioden van relatieve stabiliteit zonder veel symptomen worden afgewisseld met perioden met meer klachten.
+    `,
     symptoms: `
 - Pijn bij beweging
 - Beperkte flexie of extensie
