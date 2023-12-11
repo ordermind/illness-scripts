@@ -28,15 +28,9 @@ a {
     margin: 0 1rem 1rem 0;
 }
 
-.block-toc-wrapper {
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 100%;
-}
-
 .block-toc {
     position: sticky;
+    float: right;
     top: 0.5rem;
     background-color: #42567b;
     border: 2px solid #fff;

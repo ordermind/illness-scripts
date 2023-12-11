@@ -39,14 +39,12 @@ function themeTableOfContents(illness) {
     }
 
     return `
-<div class="block-toc-wrapper">
-    <div class="block-toc">
-        <p class="fs-6 mb-0 position-relative">Inhoudsopgave<span class="triggerArea trigger" data-bs-toggle="collapse" data-bs-target="#collapseToc"></span></p>
-        <div id="collapseToc" class="collapse">
-            <ul class="list-unstyled pt-2 mb-0">
-                ${content}
-            </ul>
-        </div>
+<div class="block-toc">
+    <p class="fs-6 mb-0 position-relative">Inhoudsopgave<span class="triggerArea trigger" data-bs-toggle="collapse" data-bs-target="#collapseToc"></span></p>
+    <div id="collapseToc" class="collapse">
+        <ul class="list-unstyled pt-2 mb-0">
+            ${content}
+        </ul>
     </div>
 </div>
 `
