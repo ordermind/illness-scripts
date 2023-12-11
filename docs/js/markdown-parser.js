@@ -1,4 +1,4 @@
-import { marked } from "./marked.esm.min.js";
+import { marked } from "../vendor/marked/js/marked.esm.min.js";
 
 /**
  * Markdown parser based on the marked library by Christopher Jeffrey.
