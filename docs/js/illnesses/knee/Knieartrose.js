@@ -89,7 +89,7 @@ Soms treedt er in de knie een ontstekingsreactie op van het synovium, een opvlam
 
 Pijn in de knie in combinatie met ten minste 3 van de volgende kenmerken:
 
-- leeftijd >= 45 jaar
+- leeftijd ≥ 45 jaar
 - ochtendstijfheid < 30 minuten
 - crepiteren (een krakend geluid bij het bewegen)
 - pijn bij palpatie van het bot
@@ -139,11 +139,32 @@ Indicatie voor fysiotherapie wanneer:
     </tr>
 </table>
 
-Start met één tot twee keer per week begeleide oefentherapie, aangevuld met zelfstandig uitgevoerde oefeningen en bouw gedurende de behandelperiode de begeleiding af.
+#### Voorlichting
+
+##### De aandoening en de mogelijke gevolgen ervan
+
+- Bij artrose is het hele gewricht aangedaan. Niet alleen het kraakbeen, maar ook het bot, de spieren en gewrichtsbanden zijn betrokken bij de aandoening.
+- Artrose is geen onvermijdelijk onderdeel van het ouder worden (geen ouderdomsaandoening).
+- De ernst en het beloop van de klachten van artrose variëren erg van persoon tot persoon, en perioden van meer en minder klachten wisselen elkaar af gedurende de tijd.
+
+##### Het belang van bewegen en een gezonde leefstijl (zelfmanagement)
+
+- Reguliere fysieke activiteit en individueel afgestemde oefeningen/beweegactiviteiten (voor het versterken van de spieren rond het gewricht, het verbeteren van de conditie en het uitvoeren van dagelijkse activiteiten) kunnen pijn verminderen en het dagelijks functioneren verbeteren. Hierbij kan een klein aantal oefeningen al tot resultaten leiden, indien deze regelmatig (bij voorkeur dagelijks) worden uitgevoerd.
+- Het integreren van enkele oefeningen/beweegactiviteiten in het dagelijks leven is een nuttige manier om deze vol te blijven houden.
+- Sedentair gedrag (te veel zitten) kan de artroseklachten doen verergeren en het risico vergroten op het krijgen van andere (leefstijlgerelateerde) aandoeningen zoals diabetes mellitus type 2 (DMII) en hart- en vaatziekten.
+- Het kan soms nodig zijn om de mechanische belasting van het pijnlijke gewricht te verlagen (bijv. door korte rustpauzes te nemen of door hulpmiddelen te gebruiken).
+- Indien sprake is van overgewicht/obesitas, is het belangrijk om af te vallen en vervolgens een gezond gewicht te behouden door middel van een individueel afgestemd plan, dat bestaat uit voedingsaanpassingen en toegenomen fysieke activiteit.
+
+##### De behandelmogelijkheden
+- De klachten als gevolg van artrose kunnen met conservatieve behandelopties aanmerkelijk verminderen (dus zonder operatief ingrijpen), waardoor veel mensen met heup- en/ of knieartrose geen gewrichtsvervangende operatie hoeven te ondergaan.
+- De belangrijkste aanbevolen conservatieve (niet-operatieve) behandelopties zijn voorlichting/advies gericht op zelfmanagement (bewegen, gezonde leefstijl), fysio-/oefentherapie, pijnmedicatie (maar hierbij kunnen bijwerkingen optreden) en afvallen indien sprake is van overgewicht/obesitas.
+- Bij onvoldoende afname van pijn en verbetering in dagelijks functioneren na een aanbevolen periode van optimaal gebruik van aanbevolen conservatieve behandelopties, is een gewrichtsvervangende operatie een optie in een eindstadium van artrose.
 
 Bij overgewicht / obesitas dient advies over gewichtsreductie gegeven te worden.
 
 #### Oefenprogramma
+
+Start met één tot twee keer per week begeleide oefentherapie, aangevuld met zelfstandig uitgevoerde oefeningen en bouw gedurende de behandelperiode de begeleiding af.
 
 <table class="table table-striped-columns">
     <tr>
