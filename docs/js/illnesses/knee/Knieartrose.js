@@ -160,8 +160,6 @@ Indicatie voor fysiotherapie wanneer:
 - De belangrijkste aanbevolen conservatieve (niet-operatieve) behandelopties zijn voorlichting/advies gericht op zelfmanagement (bewegen, gezonde leefstijl), fysio-/oefentherapie, pijnmedicatie (maar hierbij kunnen bijwerkingen optreden) en afvallen indien sprake is van overgewicht/obesitas.
 - Bij onvoldoende afname van pijn en verbetering in dagelijks functioneren na een aanbevolen periode van optimaal gebruik van aanbevolen conservatieve behandelopties, is een gewrichtsvervangende operatie een optie in een eindstadium van artrose.
 
-Bij overgewicht / obesitas dient advies over gewichtsreductie gegeven te worden.
-
 #### Oefenprogramma
 
 Start met één tot twee keer per week begeleide oefentherapie, aangevuld met zelfstandig uitgevoerde oefeningen en bouw gedurende de behandelperiode de begeleiding af.
