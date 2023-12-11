@@ -44,10 +44,8 @@ function displayIllnessInfoFromSearchResult(illnessId) {
 
     clearIllnessInfo(true);
 
-    const wrapper = document.getElementById('illness-info');   
-    const element = document.createElement("div");
-    element.innerHTML = themeIllnessContent(result.illness);
-    wrapper.appendChild(element);
+    const wrapper = document.getElementById('illness-info');
+    wrapper.innerHTML = themeIllnessContent(result.illness);
 }
 
 function createRegionSelectOptions() {

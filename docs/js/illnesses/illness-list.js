@@ -26,4 +26,8 @@ export default {
         "Knieartrose.js",
         "PatellofemoralePijnsyndroom.js",
     ].map(filename => import("./knee/" + filename).then(module => module.default))),
+    
+    misc: await Promise.all([
+        "Sarcopenie.js",
+    ].map(filename => import("./misc/" + filename).then(module => module.default))),
 };

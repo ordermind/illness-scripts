@@ -6,6 +6,9 @@ img {
 a {
     color: #f1e5ff;
 }
+.table tr td a {
+    color: #0600b0;
+}
 
 #search-result .result-item {
     cursor: pointer;
@@ -25,10 +28,16 @@ a {
     margin: 0 1rem 1rem 0;
 }
 
+.block-toc-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
 .block-toc {
     position: sticky;
     top: 0.5rem;
-    float: right;
     background-color: #42567b;
     border: 2px solid #fff;
     padding: 0.5rem;
