@@ -253,6 +253,8 @@ Zorg voor een geleidelijke opbouw in intensiteit gedurende het programma en volg
     references: `
 Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
 
+Gay, C., Chabaud, A., Guilley, E., & Coudeyre, E. (2016). Educating patients about the benefits of physical activity and exercise for their hip and knee osteoarthritis. Systematic literature review. <em>Annals of physical and rehabilitation medicine, 59</em>(3), 174-183. https://doi.org/10.1016/j.rehab.2016.02.005
+
 Kampshoff, C.S., Peter, W.F.H., Van Doormaal, M.C.M., Knoop, J., Meerhoff, G.A., & Vliet Vlieland, T.P.M. (2018). <em>KNGF-richtlijn Artrose heup-knie</em>. Het Koninklijk Nederlands Genootschap voor Fysiotherapie. Geraadpleegd op 7 december 2023, van https://www.kngf.nl/kennisplatform/richtlijnen/artrose-heup-knie
 
 Van Berkel, S. (2010). <em>Mono-disciplinaire richtlijn Patellofemoraal pijnsyndroom</em>. Vereniging voor Sportgeneeskunde.
