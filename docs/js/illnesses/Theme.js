@@ -8,7 +8,7 @@ function massageText(text) {
 }
 
 function themeTableOfContents(illness) {
-    let content = '';
+    let content = '<li><a href="#">(naar boven)</a></li>';
 
     if(illness.pathophysiology) {
         content += '<li><a href="#pathophysiology">Pathofysiologie</a></li>';
