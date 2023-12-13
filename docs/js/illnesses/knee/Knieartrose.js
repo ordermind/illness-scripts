@@ -80,6 +80,7 @@ De pijn treedt aanvankelijk op bij het starten van bewegen en bij langdurig bela
 - benige zwellingen aan de gewrichtsranden (osteofyten)
 - geen warmte bij palpatie
 - krachtsverlies van de knie-extensoren
+- een benig eindgevoel
 - startpijn en/of -stijfheid bij bewegen
 
 Naast benige zwelling kan er sprake zijn van wekedelenzwelling of intra-articulaire zwelling (hydrops of synovitis).
