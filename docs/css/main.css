@@ -46,3 +46,8 @@ a {
     width: calc(100% + 1rem);
     height: calc(100% + 1rem);
 }
+
+.spinner-border {
+    width: 5rem;
+    height: 5rem;
+}

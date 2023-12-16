@@ -7,6 +7,65 @@ const illnessRepository = new IllnessRepository();
 
 let currentSearchResults = {};
 
+function renderPage() {
+    const html = `
+<div class="row mb-3">
+    <div class="col-lg-3">
+        <h1 class="display-1 fs-2 mb-0">Illness Scripts</h1>
+    </div>
+    <div class="col-lg-9 text-end">
+        <span class="fs-5 badge bg-light text-secondary fw-normal | trigger" data-bs-toggle="collapse" data-bs-target="#collapseFilters">Filters</span>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <div class="collapse" id="collapseFilters">
+            <div class="pb-3">
+                <div class="card card-body">
+                    <form id="form-search">
+                        <div class="filter-element">
+                            <select class="form-select" name="region" id="select-region">
+                                <option value="">- Regio -</option>
+                            </select>
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="name" placeholder="Naam"/>
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="pathophysiology" placeholder="Pathofysiologie" />
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="epidemiology" placeholder="Epidemiologie" />
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="timeCourse" placeholder="Verloop" />
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="symptoms" placeholder="Symptomen" />
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="diagnostics" placeholder="Diagnostiek" />
+                        </div><div class="filter-element">
+                            <input type="text" class="form-control" name="treatment" placeholder="Behandeling" />
+                        </div>
+
+                        <div class="mb-3 d-flex justify-content-between">
+                            <input type="submit" class="btn btn-primary" id="submit-filters" value="Filteren" />
+                            <input type="reset" class="btn btn-light" id="clear-filters" value="Wissen" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-3 p-2 bg-body-tertiary border text-center">
+        <ul class="list-group" id="search-result"></ul>
+    </div>
+    <div class="col-lg-9 pt-2 bg-secondary text-light">
+        <div id="illness-info" class="position-relative"></div>
+    </div>
+</div>
+    `;
+
+    document.getElementById("main").innerHTML = html;
+}
+
 function onSearchResultClick(e) {
     const illnessId = e.target.getAttribute('data-illness-id');
     displayIllnessInfoFromSearchResult(illnessId);
@@ -105,6 +164,7 @@ function addClearHandler() {
     } 
 }
 
+renderPage();
 createRegionSelectOptions();
 addSubmitHandler();
 addClearHandler();
