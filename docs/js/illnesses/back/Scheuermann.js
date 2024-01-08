@@ -28,7 +28,7 @@ De oorzaak is onbekend.
     treatment: `
 #### Fysiotherapie (bij milde vorm en in vroeg stadium)
 
-- Strekken van de hamstrings
+- Strekken van de hamstrings (gespannen hamstrings komen vaak voor bij Scheuermann omdat ze betrokken zijn bij overcompensatie)
 - Strekken en versterken van de 'rompstrekkers'
 - Geen effect op het verloop, wel op verminderen pijnklachten (16%-32%)
 
