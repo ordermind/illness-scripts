@@ -2,14 +2,14 @@ import Illness from "../Illness.js";
 
 export default new Illness({
     id: "non_structural_scoliosis",
-    name: "Non-structurele Scoliose",
+    name: "Niet-structurele Scoliose",
     images: [
         "./images/back/scoliosis.jpg",
     ],
     pathophysiology: `
 - Zijdelinge kromming van de wervelkolom die komt door omstandigheden anders dan de groei van de wervels.
 
-Oorzaken van non-structurele scoliose:
+Oorzaken van niet-structurele scoliose:
 - Beenlengteverschil:
 <ul class="list-unstyled">
     <li>< 2 cm is normaal</li>
