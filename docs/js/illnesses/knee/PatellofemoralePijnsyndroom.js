@@ -34,11 +34,9 @@ export default new Illness({
 - Myofasciale lengtetesten, zoals de Thomas test, de Ober test of een combinatie van testen waarbij je in de myofasciale keten onderzoekt.
 - Palpatie in de myofasciale keten, voornamelijk om te bekijken of er myofasciale triggerpoints aanwezig zijn. Vaak zijn er actieve triggerpoints aanwezig in de <strong>mm. gluteï</strong> en <strong>quadriceps</strong>.
 - Inspectie en palpatie van m. vastus medialis om eventuele atrofie te ontdekken
-- Patellar Compression Test
-- Patellar Apprehension Test
 - Bewegingsbeperkingen die vaak voorkomen bij patiënten met PFPS zijn een verminderde rotatie in de thoracolumbale wervelkolom, een endorotatie- of extensiebeperking in de heup, een verminderde anterieure translatie van het proximale tibiofibulaire gewricht en een dorsaalflexiebeperking in de enkel
 - Squat test waar je 1 squat lang aanhoudt (45 sec). Bij tendinopathie zal de pijn dan afnemen, bij PFPS niet.
-- Step down test (op een stepup staan en het niet aangedane been naar beneden laten neerstappen, maar het gewicht op het aangedane gebogen been laten behouden)
+- Step down test (op een stepup staan en het niet aangedane been naar beneden laten neerstappen, maar het gewicht op het aangedane gebogen been laten behouden), hierbij kun je een eventueel kneeing-in observeren
 - De <strong>single leg decline squat</strong> veroorzaakt minder pijn bij een diepe squat vergeleken met patellatendinopathie.
     `,
     treatment: `
