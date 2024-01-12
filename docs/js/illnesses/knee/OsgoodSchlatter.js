@@ -20,13 +20,14 @@ export default new Illness({
 - Pijn bij tuberositas tibiae
     `,
     diagnostics: `
-- Palpatie: Met één vinger lokaliseerbare pijn. 
+- Palpatie: Met één vinger lokaliseerbare pijn.
 - (druk)pijnlijke zwelling ter hoogte van tuberositas tibiae, veelal unilateraal.
 - Röntgenfoto
     `,
     treatment: `
 - Het syndroom van Osgood-Schlatter gaat in ruim 90% van de gevallen vanzelf over na de groeispurt. Maar dit duurt lang, soms een aantal maanden tot meer dan een jaar.
 - Behandeling lijkt op de behandeling van tendinopathie, met focus op het handhaven van de belasting en het opbouwen van kracht en effect door oefentherapie.
+- Beperken van activiteiten die een (groot) beroep doen op de quadriceps (denk aan plyometrische activiteiten)
     `,
     references: `
 Belo, J.N., Bierma-Zeinstra, S.M.A., Kuijpers, T., Opstelten, W., Van den Donk, M.,Weisscher, P.J., & Wildervanck-Dekker, C.M.J. (2020). <em>NHG-Standaard Niet-traumatische knieklachten (M107)</em>. Nederlands Huisartsen Genootschap.
