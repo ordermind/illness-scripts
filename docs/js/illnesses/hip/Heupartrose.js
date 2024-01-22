@@ -106,37 +106,30 @@ Indicatie voor fysiotherapie wanneer:
 
 <table class="table table-striped-columns">
     <tr>
+        <th></th>
         <th>Indicatie 1</th>
         <th>Indicatie 2</th>
         <th>Indicatie 3</th>
         <th>Indicatie 4</th>
     </tr>
     <tr>
+        <th>Voor wie?</th>
+        <td>Patiënten bij wie toelichting voldoende is</td>
+        <td>Patiënten voor wie een oefenprogramma opgesteld dient te worden</td>
         <td>
             <ul>
-                <li>kortdurende voorlichting, advies en oefen- en beweeginstructie</li>
-                <li>Patiënten bij wie toelichting voldoende is</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>voorlichting, advies en <strong>kortdurend</strong> begeleid oefenprogramma</li>
-                <li>Patiënten voor wie een oefenprogramma opgesteld dient te worden</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>voorlichting, advies en <strong>langdurend</strong> begeleid oefenprogramma</li>
                 <li>Patiënten met andere aandoeningen, zoals DM type II of COPD, waardoor het lastig wordt om een normaal oefenprogramma te volgen</li>
                 <li>Patiënten met chronische pijnklachten en/of sterke bewegingsangst</li>
             </ul>
         </td>
-        <td>
-            <ul>
-                <li>voorlichting, pre- en/of postoperatieve oefentherapie vóór of ná een gewrichtsvervangende operatie van de heup en/of knie</li>
-                <li>Patiënten die een gewrichtsvervangende operatie gaan hebben of hebben gehad</li>
-            </ul>
-        </td>
+        <td>Patiënten die een gewrichtsvervangende operatie gaan hebben of hebben gehad</td>
+    </tr>
+    <tr>
+        <th>Interventie</th>
+        <td>Kortdurende voorlichting, advies en oefen- en beweeginstructie</td>
+        <td>Voorlichting, advies en <strong>kortdurend</strong> begeleid oefenprogramma</td>
+        <td>Voorlichting, advies en <strong>langdurend</strong> begeleid oefenprogramma</td>
+        <td>Voorlichting, pre- en/of postoperatieve oefentherapie vóór of ná een gewrichtsvervangende operatie van de heup</td>
     </tr>
 </table>
 
