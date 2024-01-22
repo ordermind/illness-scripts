@@ -28,9 +28,15 @@ De oorzaak is onbekend.
     treatment: `
 #### Fysiotherapie (bij milde vorm en in vroeg stadium)
 
-- Strekken van de hamstrings (gespannen hamstrings komen vaak voor bij Scheuermann omdat ze betrokken zijn bij overcompensatie)
-- Strekken en versterken van de 'rompstrekkers'
-- Geen effect op het verloop, wel op verminderen pijnklachten (16%-32%)
+- Rekken van de spieren die gespannen zijn / verkort worden door de compensatoire hyperlordose:
+    - m. erector spinae
+    - m. quadratus lumborum
+    - m. iliopsoas
+- Versterken van de spieren die verzwakt zijn / op rek komen door de hyperlordose:
+    - buikspieren (m. rectus abdominis, m. obliquus externus abdominis, m. obliquus internus abdominis)
+    - hamstrings
+    - m. gluteus maximus
+- De fysiotherapeutische behandeling heeft geen effect op het verloop, maar wel op verminderen pijnklachten (16%-32%)
 
 #### Brace
 
