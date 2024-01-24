@@ -3,9 +3,11 @@
 - Kennisbank:
   - Tabb: Aandoeningen
     - Lista aandoeningen inuti rutor kategoriserade efter region
+    - Filter för lista: Region, Fritextsök (sök på alla relevanta fält i stället för att ha ett filter per fält)
     - Sida för enskild aandoening
   - Tabb: Tests
     - Lista tester
+    - Filter för lista: Testnamn
     - Sida för enskilt test
 - Lägg till möjlighet att ha en hierarki av regioner
 - Lägg till alla tester som vi har tagit upp och försök få med viktig information såsom sensitiviteit och specificiteit
