@@ -1,1 +1,15 @@
 - Lägg till illness scripts för de problem som vi lärde oss under Werk-Sport-Hobby
+- Differentiaaldiagnostiek: Steg 1 är att välja region. Då dyker det upp en tabell med RADERNA "Naam aandoening", "Differentiaaldiagnostiek", "Behandeling". Det här är en sammanfattning som ska göra det enklare för mig att ha en översikt i huvudet som hjälper vid praktikprov.
+- Kennisbank:
+  - Tabb: Aandoeningen
+    - Lista aandoeningen inuti rutor kategoriserade efter region
+    - Sida för enskild aandoening
+  - Tabb: Tests
+    - Lista tester
+    - Sida för enskilt test
+- Lägg till möjlighet att ha en hierarki av regioner
+- Lägg till alla tester som vi har tagit upp och försök få med viktig information såsom sensitiviteit och specificiteit
+- Ha två menylänkar: Kennisbank och Differentiaaldiagnostiek
+- Bygg om applikationen i en ny branch. Använd samma routing som i joints-muscles.
+
+VERSION 2
