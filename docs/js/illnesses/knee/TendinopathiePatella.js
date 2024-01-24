@@ -36,7 +36,7 @@ export default new Illness({
 - Vaak is <strong>zwakte</strong> van de <strong>quadriceps</strong> en <strong>kuit</strong> aanwezig, en de kracht van <strong>mm. glutei</strong> dient ook onderzocht te worden.
 - Verminderde <strong>dorsaalflexie van de enkel</strong>, <strong>flexibiliteit van de hamstrings en quadriceps</strong>, en <strong>voetstand</strong> dienen onderzocht te worden aangezien bij sommigen daarvan een relatie met patellatendinopathie is gevonden
 - De <strong>single leg decline squat</strong> creërt snel veel gelokaliseerde pijn tijdens de flexie. Dit kan gebruikt worden om de waarschijnlijkheid van de diagnose te verhogen en ook om de gevoeligheid van de pees te bepalen.
-- <strong>Dose-dependent pain</strong> is een karakteristieke eigenschap. Dit betekent dat de pijn toeneemt naarmate de belasting toeneemt. Bijvoorbeeld zou de pijn moeten toenemen als je van een lichte naar een diepe squat gaat.
+- Squat test waar je 1 squat lang aanhoudt (45 sec). Bij tendinopathie zal de pijn dan afnemen.
 - Sporters met patellatendinopathie hebben de neiging om stijf te landen om de flexie te verminderen
 - VISA-P vragenlijst om de ernst van de klachten te beoordelen en voortgang bij te houden
 - Lengtetest
