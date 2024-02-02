@@ -1,6 +1,19 @@
+h6 {
+    font-weight: bold;
+}
+
 img {
     max-width: 100%;
     height: auto;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+img.margin-bottom {
+    margin-bottom: 1rem;
 }
 
 a {
