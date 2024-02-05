@@ -168,7 +168,7 @@ Vraag naar:
 ##### Functionele inspectie
 
 - verkrijgen van een klinische indruk tijdens (functionele) bewegingen (lichaamshouding, balans, kortademigheid en/of vermoeidheid, gebruik van loophulpmiddel)
-- inspectie van de manier van ademhalen (ademfrequentie, adembewegingspatroon, paradoxale thoracoabdominale beweging in rust en tijdens inspanning, activiteit en hypertonie van (hulp)ademhalingsspieren
+- inspectie van de manier van ademhalen (ademfrequentie, adembewegingspatroon, paradoxale thoracoabdominale beweging in rust en tijdens inspanning, activiteit en hypertonie van (hulp)ademhalingsspieren - is de "pump handle" zichtbaar aanwezig ook in rust? Is er sprake van het teken van Hoover waardoor de onderste ribben naar binnen bewegen tijdens inademing?
 - inspectie van de manier van hoesten en huffen ter bevordering van mucusklaring
 
 ##### Basisonderzoek
