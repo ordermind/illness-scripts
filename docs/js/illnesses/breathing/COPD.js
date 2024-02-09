@@ -173,13 +173,13 @@ Vraag naar:
 
 ##### Basisonderzoek
 
-- fysieke capaciteit (6MWT en/of SWT, CWRT)
+- fysieke capaciteit (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/6-minute-walk-test-zes-minuten-wandeltest/">6MWT</a> en/of <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/shuttle-walk-test/">SWT</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/constant-work-rate-cycle-test/">CWRT</a>)
 - mate van fysieke activiteit (activiteitenmeteraanbev)
 - zuurstofsaturatie in rust en tijdens inspanning en (indien van toepassing) met en zonder medische zuurstof (saturatiemeteraanbev)
-- perifere spierkracht (HHD en/of 1RM)
-- ademspierfunctie (MIP)
-- balans/valrisico (TUG)
-- symptoomlast (CCQ, CAT)
+- perifere spierkracht (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/handknijpkrachtmeter-hand-held-dynamometer/">HHD</a> en/of <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/one-repetition-maximum-herhalings-maximum/">1RM</a>)
+- ademspierfunctie (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/maximale-inspiratoire-monddrukmeting/">MIP</a>)
+- balans/valrisico (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/timed-up-go-test-2/">TUG</a>)
+- symptoomlast (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/modified-medical-research-council-dyspnoe-vragenlijst/">mMRC</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/clinical-copd-questionnaire/">CCQ</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/copd-assessment-test/">CAT</a>)
 
 ##### Spirometrie
 
@@ -255,6 +255,8 @@ Bij een FEV1/FVC-verhouding < 0,7 wordt de beoordeling van de ernst van de lucht
         <td>FEV1 < 30% voorspeld</td>
     </tr>
 </table>
+
+<img src="./images/breathing/copd-gold-diagnostic-process.jpg" class="center margin-bottom" />
 
 #### Patientprofielen
 
