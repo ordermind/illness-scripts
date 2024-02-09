@@ -218,9 +218,9 @@ Doelen:
     references: `
 Ang, J., Moussa, R., Shaikh, S., & Mele, S. (2023). Effects of aerobic exercise on asthma control and quality of life in adults: a systematic review. <em>The Journal of asthma : official journal of the Association for the Care of Asthma, 60</em>(5), 845-855. https://doi.org/10.1080/02770903.2022.2103429
 
-Bhogal-Statham, M.J., Bindels, P.J.E., Boelman, L., Boers, S.N., De Jong, J., Leendertse, A.J., Looijmans, I., Muris, J.W.M., Oud, M., Schouten, F., van de Griendt, E.J., van Ewijk, B. (2022). <em>NHG-Standaard Astma bij kinderen (M24)</em>. Geraadpleegd op 9 februari 2024, van https://richtlijnen.nhg.org/files/pdf/71_Astma%20bij%20kinderen_mei-2022.pdf
+Bhogal-Statham, M.J., Bindels, P.J.E., Boelman, L., Boers, S.N., De Jong, J., Leendertse, A.J., Looijmans, I., Muris, J.W.M., Oud, M., Schouten, F., van de Griendt, E.J., van Ewijk, B. (2022). <em>NHG-Standaard Astma bij kinderen (M24)</em>. Nederlands Huisartsen Genootschap. Geraadpleegd op 9 februari 2024, van https://richtlijnen.nhg.org/files/pdf/71_Astma%20bij%20kinderen_mei-2022.pdf
 
-Bottema, J.W., Bouma, M., Broekhuizen, L., Chavannes, N.H., Frankemölle, L.A.M., Hallensleben, C., De Jong, J., Muris, J.W.M., Van Nederveen-Bendien, S.A., Van Vugt, S.F. (2022). <em>NHG-Standaard Astma bij volwassenen (M27)</em>. Geraadpleegd op 9 februari 2024, van https://richtlijnen.nhg.org/files/pdf/101_Astma%20bij%20volwassenen_december-2022.pdf
+Bottema, J.W., Bouma, M., Broekhuizen, L., Chavannes, N.H., Frankemölle, L.A.M., Hallensleben, C., De Jong, J., Muris, J.W.M., Van Nederveen-Bendien, S.A., Van Vugt, S.F. (2022). <em>NHG-Standaard Astma bij volwassenen (M27)</em>. Nederlands Huisartsen Genootschap. Geraadpleegd op 9 februari 2024, van https://richtlijnen.nhg.org/files/pdf/101_Astma%20bij%20volwassenen_december-2022.pdf
 
 Weersink, E.J.M., Braunstahl, G.J., ten Brinke, A., van Veen, H.P.A.A., Conemans, L.H., Aardenburg-van Huisstede, A., Zielhuis, S.W., van Litsenburg, W., Hulzebos, H.J., Poulissen-Erinkveld, M.A.P., Frankemölle, L.A.M., & van der Roest, E.M. (2020). <em>Diagnostiek en behandeling van ernstig astma</em>. Richtlijnendatabase. Geraadpleegd op 9 februari 2024, van https://richtlijnendatabase.nl/richtlijn/diagnostiek_en_behandeling_van_ernstig_astma/aanvullende_behandelingen_bij_ernstig_astma/fysiotherapie_bij_ernstig_astma.html
     `,

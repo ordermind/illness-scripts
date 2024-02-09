@@ -31,6 +31,7 @@ export default {
         "Astma.js",
         "COPD.js",
         "ILD.js",
+        "Longembolie.js",
     ].map(filename => import("./breathing/" + filename).then(module => module.default))),
 
     misc: await Promise.all([
