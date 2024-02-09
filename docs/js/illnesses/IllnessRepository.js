@@ -26,12 +26,12 @@ export default class IllnessRepository {
 
     #searchInRegion(region,
     {
-        name = new Set(), 
-        pathophysiology = new Set(), 
-        epidemiology = new Set(), 
-        timeCourse = new Set(), 
-        symptoms = new Set(), 
-        diagnostics = new Set(), 
+        name = new Set(),
+        pathophysiology = new Set(),
+        epidemiology = new Set(),
+        timeCourse = new Set(),
+        symptoms = new Set(),
+        diagnostics = new Set(),
         treatment = new Set()
     },
     ) {

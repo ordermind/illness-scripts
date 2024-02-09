@@ -28,6 +28,7 @@ export default {
     ].map(filename => import("./knee/" + filename).then(module => module.default))),
 
     breathing: await Promise.all([
+        "Astma.js",
         "COPD.js",
     ].map(filename => import("./breathing/" + filename).then(module => module.default))),
 

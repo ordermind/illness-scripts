@@ -13,6 +13,8 @@ Chronische Obstructieve Longziekte (COPD) is een heterogene longaandoening die w
 
 COPD ontstaat als gevolg van interacties tussen genen en omgeving gedurende het leven van het individu, die de longen kunnen beschadigen en/of hun normale ontwikkelings- en verouderingsprocessen kunnen veranderen.
 
+COPD heeft een minimale reversibiliteit (afname van obstructie door inname van een luchtwegverwijder).
+
 #### Externe risicofactoren
 
 - inademen van tabaksrook - of zelf roken of meeroken
@@ -32,10 +34,10 @@ COPD ontstaat als gevolg van interacties tussen genen en omgeving gedurende het 
 
 #### Complicaties
 
-- Longaanval (Exacerbatie)
+- Exacerbatie (longaanval) - acute verergering van symptomen
 - Respiratoire insufficiëntie
 - Pulmonale hypertensie
-- Pneumothorax
+- Pneumothorax (klaplong)
     `,
     epidemiology: `
 - Prevalentie: 2% (Nederland)
@@ -62,81 +64,49 @@ Sommige individuen kunnen respiratoire symptomen en/of structurele longlaesies h
 
 <table class="table table-striped-columns">
     <tr>
-        <th>Diagnose</th>
-        <th>Kenmerken</th>
+        <th></th>
+        <th>Astma</th>
+        <th>COPD</th>
     </tr>
     <tr>
-        <td>COPD</td>
-        <td>
-            <ul>
-                <li>Progressief beloop</li>
-                <li>Geschiedenis van tabakroken of andere risicofactoren</li>
-            </ul>
-        </td>
+        <th>Belangrijkste risicofactor</th>
+        <td>Atopie</td>
+        <td>Roken</td>
     </tr>
     <tr>
-        <td>Astma</td>
-        <td>
-            <ul>
-                <li>Variabele luchtwegbeperking</li>
-                <li>Symptomen variëren wild van dag tot dag</li>
-                <li>Verergering van symptomen 's nachts / 's ochtends vroeg</li>
-                <li>Allergie, rhinitis en/of eczeem zijn ook aanwezig</li>
-                <li>Komt vaak voor bij kinderen</li>
-                <li>Familiegeschiedenis van astma</li>
-            </ul>
-        </td>
+        <th>Luchtwegobstructie</th>
+        <td>Wisselend, in de regel reversibel</td>
+        <td>Per definitie deels irreversibel</td>
     </tr>
     <tr>
-        <td>Hartfalen</td>
-        <td>
-            <ul>
-                <li>Borstfoto toont een verwijde hart, longoedeem</li>
-                <li>Longfunctietests geven aan dat er sprake is van volumerestrictie, niet van luchtwegobstructie</li>
-            </ul>
-        </td>
+        <th>Pathofysiologie</th>
+        <td>Chronische ontsteking in alle luchtwegen, meestal gevoelig voor corticosteroïden</td>
+        <td>Chronische ontsteking met name in de kleine luchtwegen, relatief ongevoelig voor corticosteroïden</td>
     </tr>
     <tr>
-        <td>Bronchiëctasieën</td>
-        <td>
-            <ul>
-                <li>Grote hoeveelheden etterig sputum</li>
-                <li>Vaak geassocieerd met bacteriële infectie</li>
-                <li>Borstfoto / HRCT toont bronchiale verwijding</li>
-            </ul>
-        </td>
+        <th>Uitlokkende factor </th>
+        <td>Allergische en niet-allergische prikkels</td>
+        <td>-</td>
     </tr>
     <tr>
-        <td>Tuberculosis</td>
-        <td>
-            <ul>
-                <li>Begin op alle leeftijden</li>
-                <li>Borstfoto toont longinfiltratie</li>
-                <li>Microbiologische bevestiging</li>
-                <li>Hoge lokale prevalentie van tuberculose</li>
-            </ul>
-        </td>
+        <th>Leeftijd</th>
+        <td>Alle leeftijden</td>
+        <td>Meestal > 40 jaar</td>
     </tr>
     <tr>
-        <td>Bronchiolitis obliterans</td>
-        <td>
-            <ul>
-                <li>Kan voorkomen bij kinderen</li>
-                <li>Waargenomen na long- of beenmergtransplantatie</li>
-                <li>HRCT bij uitademing toont hypodense gebieden</li>
-            </ul>
-        </td>
+        <th>Beloop</th>
+        <td>Meestal gunstig met variërende klachten</td>
+        <td>Overwegend chronisch, geleidelijk progressief</td>
     </tr>
     <tr>
-        <td>Diffuse panbronchiolitis</td>
-        <td>
-            <ul>
-                <li>Voornamelijk waargenomen bij patiënten van Aziatische afkomst</li>
-                <li>Meeste patiënten zijn mannelijk en niet-rokers</li>
-                <li>Bijna allemaal hebben chronische sinusitis</li>
-                <li>Borstfoto en HRCT tonen verspreide kleine centrilobulaire nodulaire opaciteiten en hyperinflatie</li>
-            </ul>
-        </td>
+        <th>Levensverwachting</th>
+        <td>(Vrijwel) normaal bij optimale behandeling</td>
+        <td>Verminderd, ook bij optimale behandeling</td>
+    </tr>
+    <tr>
+        <th>Longfunctie (spirometrie)</th>
+        <td>Meestal normaal of met reversibele obstructie</td>
+        <td>Blijvend verminderd (irreversibele obstructie)</td>
     </tr>
 </table>
 

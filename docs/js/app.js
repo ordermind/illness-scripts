@@ -133,7 +133,7 @@ function submitSearchForm(e) {
     clearIllnessInfo();
 
     const searchResultsWrapper = document.getElementById('search-result');
-    Object.entries(currentSearchResults).forEach(([index, resultItem]) => {
+    for(const resultItem of Object.values(currentSearchResults).sort((a, b) => a.illness.name < b.illness.name ? -1 : 1)) {
         const illness = resultItem.illness;
         const element = document.createElement("li");
         element.classList.add('result-item', 'relevance-' + resultItem.relevance, 'list-group-item');
@@ -141,7 +141,7 @@ function submitSearchForm(e) {
         element.innerHTML = illness.name;
         element.addEventListener('click', onSearchResultClick);
         searchResultsWrapper.appendChild(element);
-    });
+    }
 
     return false;
 }
@@ -161,7 +161,7 @@ function addClearHandler() {
         form.attachEvent("reset", clearSearchForm);
     } else {
         form.addEventListener("reset", clearSearchForm);
-    } 
+    }
 }
 
 renderPage();

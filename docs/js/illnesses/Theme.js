@@ -56,7 +56,7 @@ export default function themeIllnessContent(illness) {
     if(illness.images.length) {
         content += `<div class="mb-3 text-center">`;
         for(const src of illness.images) {
-            content += `<img src="${src}" />`;
+            content += `<img class="header-image" src="${src}" />`;
         }
         content += `</div>`;
     }
@@ -76,14 +76,14 @@ ${massageText(illness.pathophysiology)}
         content += `
 <h3 id="epidemiology" class="display-3 fs-4 bg-light text-dark p-2">Epidemiologie</h3>
 ${massageText(illness.epidemiology)}
-`; 
+`;
     }
 
     if(illness.timeCourse) {
         content += `
 <h3 id="time-course" class="display-3 fs-4 bg-light text-dark p-2">Verloop</h3>
 ${massageText(illness.timeCourse)}
-`; 
+`;
     }
 
     if(illness.symptoms) {
@@ -97,21 +97,21 @@ ${massageText(illness.symptoms)}
         content += `
 <h3 id="diagnostics" class="display-3 fs-4 bg-light text-dark p-2">Diagnostiek</h3>
 ${massageText(illness.diagnostics)}
-`; 
+`;
     }
 
     if(illness.treatment) {
         content += `
 <h3 id="treatment" class="display-3 fs-4 bg-light text-dark p-2">Behandeling</h3>
 ${massageText(illness.treatment)}
-`; 
+`;
     }
 
     if(illness.references) {
         content += `
 <h3 id="references" class="display-3 fs-4 bg-light text-dark p-2">Bronnen</h3>
 ${massageText(illness.references)}
-`; 
+`;
     }
 
     return content;
