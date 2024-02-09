@@ -23,6 +23,13 @@ Elk jaar overlijden 500 kinderen in Nederland aan een astmaanval. Het is dus een
 - Prevalentie: 2,5% in de totale Nederlandse bevolking, 5% bij kinderen
 - Leeftijd: eerste klachten meestal bij kinderen 4-7 jaar
     `,
+    symptoms: `
+- dyspneu
+- piepende ademhaling
+- hoesten
+
+Symptomen hoeven niet alleen op te treden in verband met een directe prikkel. Bijvoorbeeld kun je 's ochtends klachten krijgen vanwege een prikkel en dan 8 uur later weer benauwd worden vanwege de prikkel 's ochtends. Dit wordt <strong>bifasisch beloop</strong> genoemd.
+    `,
     diagnostics: `
 
 <table class="table">
@@ -123,6 +130,7 @@ Vraag naar:
 - aanwijzingen voor allergische prikkels
 - Zijn er dyspneuklachten na blootstelling aan een allergeen, zoals:
     - aanwijzingen voor een allergische rinitis; is de patiënt vaak 'verkouden'?
+    - aanwijzingen voor eczeem
     - verergeren de klachten in een stoffige omgeving (huisstofmijt)?
     - klachten in voorjaar of zomer (pollen van bomen, grassen, onkruiden)
     - klachten bij contact met dieren (katten, honden, knaagdieren, paarden) of
@@ -147,6 +155,7 @@ Vraag naar:
 - ernst, duur, frequentie en het patroon van de luchtwegklachten: incidenteel, aanvalsgewijs, regelmatig of dagelijks; klachtenvrije periodes; seizoensinvloed
 - aanwijzingen voor allergische prikkels:
     - klachten passend bij allergische rinitis, zoals niezen, jeuk in neus of ogen, een loopneus of verstopte neus
+    - eczeem
     - optreden of verergeren van klachten: in een stoffige omgeving (huisstofmijt), in voorjaar of zomer (pollen van bomen, grassen of kruiden) of bij contact met dieren (katten, honden, knaagdieren, paarden)
 - aanwijzingen voor niet-allergische prikkels:
     - persisterende klachten tijdens of aansluitend aan virale luchtweginfecties
