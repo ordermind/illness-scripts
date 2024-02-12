@@ -273,6 +273,9 @@ Overweeg in alle andere gevallen <strong>duurtraining</strong>.
 
 Overweeg de duur-/intervaltraining deels of volledig te vervangen door spierkrachttraining indien duur-/intervaltraining (nagenoeg) onmogelijk wordt vanwege bijvoorbeeld een te lage spierfunctie en/of ernstige kortademigheid.
 
+Overweeg ter vermindering van kortademigheid om (ademhalings)oefeningen en activiteiten
+licht voorovergebogen uit te laten voeren.
+
 <table class="table">
     <tr>
         <th>Frequentie</th>
@@ -335,7 +338,59 @@ Overweeg de duur-/intervaltraining deels of volledig te vervangen door spierkrac
     </tr>
 </table>
 
-##### Overige behandelingen
+#### Interventies gericht op het adembewegingsapparaat
+
+##### Ademspiertraining
+
+Bied bij voorkeur ademspiertraining aan bij patiënten met verminderde ademspierfunctie
+(PImax < 70% van de voorspelde waarde):
+
+- indien er sprake is van kortademigheid en als het doel is om deze kortademigheid te
+verminderen en/of;
+- indien ernstige kortademigheid duur-/intervaltraining nagenoeg onmogelijk maakt.
+
+Bied ademspiertraining enkel aan indien de patiënt voldoende motivatie en vaardigheden heeft om (na instructie) de ademspiertraining zelfstandig te volbrengen en bereid is om de benodigde apparatuur aan te schaffen.
+
+Overweeg ter vermindering van kortademigheid om (ademhalings)oefeningen en activiteiten
+licht voorovergebogen uit te laten voeren.
+
+<table class="table">
+    <tr>
+        <th>Frequentie</th>
+        <td>
+
+- minimaal 5 dagen per week, 1-2 sessies per dag ter bevordering van de ademspierfunctie
+- daarna 2 tot 3 dagen per week ter behoud van de ademspierfunctie
+        </td>
+    </tr>
+    <tr>
+        <th>Intensiteit</th>
+        <td>30-50% PImax (afhankelijk van het toestel)</td>
+    </tr>
+    <tr>
+        <th>Type training</th>
+        <td>
+Weerstandstraining met 'threshold' en 'flow-resistive', of met 'threshold' in combinatie met een 'flow-resistive' toestel ('tapered flow resistive loading')
+        </td>
+    </tr>
+    <tr>
+        <th>Tijdsduur</th>
+        <td>30 ademhalingen per sessie (sessie duurt ongeveer 5 minuten)</td>
+    </tr>
+</table>
+
+##### Pursed Lip Breathing (PLB)
+
+Overweeg het aanleren van 'pursed lip breathing' (PLB) bij patiënten met inspanningsgebonden kortademigheid en bij patiënten die PLB nog niet automatisch toepassen. Maak alle patiënten bewust van de toepassing, het effect van deze techniek (ook als patiënten deze al automatisch toepassen) en dat PLB toegepast kan worden tijdens en na inspanning.
+
+1. Adem in door de neus (indien mogelijk)
+2. Adem uit door de mond (2x zo lang als de inademing)
+
+##### Ontspanningstechnieken
+
+Overweeg de inzet van ontspanningstechnieken bij patiënten met COPD die kortademig zijn, slaapproblemen hebben, gestrest zijn en/of hoge spierspanning hebben, om daarmee de kortademigheid, spanning en/of angst te verminderen. Bespreek met de patiënt waar de spanning / angst door veroorzaakt kan worden. 
+
+#### Multidisciplinaire behandelingen
 
 - ev. psychotherapie (bij angst / depressie)
 - ev. diëtist inschakelen (bij overgewicht / ondergewicht)
