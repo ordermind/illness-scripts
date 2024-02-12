@@ -26,11 +26,20 @@ COPD heeft een minimale reversibiliteit (afname van obstructie door inname van e
 
 - Astma
 - Mutaties in het SERPINA1-gen die leiden tot het erfelijk tekort aan α-1 antitrypsine (AATD).
+- Orale corticosteroïden
+- Inactiviteit
+- Hoge leeftijd (> 60 jaar)
 
 #### Comorbiditeiten
 
-- diabetes mellitus
 - HVZ (20% van de patiënten met COPD heeft ook hartfalen)
+- astma
+- spieratrofie - komt door verminderde fysieke activiteit, hypoxie, malnutritie etc.
+- osteoporose (verhoogde kans 2x - 5x) - vooral aanwezig bij patiënten uit de emfyseemkant van COPD met laag gewicht en lage vetvrije massa
+- overgewicht of ondergewicht
+    - ondergewicht heeft een hoge en exponentiele correlatie met mortaliteit bij COPD-patiënten. In die groep is het afkappunt voor ondergewicht BMI < 21 kg/m2 of vetvrije massa index (VVM-I) < 16 kg/m2 bij mannen en 15 kg/m2 bij vrouwen
+- metabole aandoeningen (metabool syndroom, DM type II) - glycemie in een goed gecontroleerde COPD patiënt kan ontregelen bij een exacerbatie COPD (longaanval) vanwege corticosteroïd-geïnduceerde hyperglycemie
+- angst / depressie (komt bij 20% - 50% van de patiënten voor)
 
 #### Complicaties
 
@@ -233,24 +242,14 @@ Bij een FEV1/FVC-verhouding < 0,7 wordt de beoordeling van de ernst van de lucht
 <img src="./images/breathing/copd-patientprofielen.jpg" class="center margin-bottom" />
     `,
     treatment: `
-Biedt zorg aan die passend is bij het profiel van de patiënt:
+Bied zorg aan die passend is bij het profiel van de patiënt:
 
-- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten,
-overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie
-(GLI).
-- Profiel 2: Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of
-sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI.
-- Profiel 3: Eerstelijns therapie primair gericht op het optimaliseren van fysieke activiteit en
-daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van
-onderhoudsbehandeling.
-- Profiel 4: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit en
-daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van
-onderhoudsbehandeling.
-- Profiel 5: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit, opti-
-maliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportacti-
-viteiten of opvolging in de vorm van onderhoudsbehandeling.
-- Profiel 6: Tweede- of derdelijns interdisciplinaire longrevalidatie, gevolgd door onderhouds-
-behandeling in de eerstelijnszorg.
+- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI).
+- Profiel 2: Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI.
+- Profiel 3: Eerstelijns therapie primair gericht op het optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 4: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 5: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit, optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 6: Tweede- of derdelijns interdisciplinaire longrevalidatie, gevolgd door onderhoudsbehandeling in de eerstelijnszorg.
 
 #### Voorlichting en educatie
 
@@ -272,9 +271,7 @@ Overweeg intervaltraining in te zetten indien:
 
 Overweeg in alle andere gevallen <strong>duurtraining</strong>.
 
-Overweeg de duur-/intervaltraining deels of volledig te vervangen door spierkrachttraining
-indien duur-/intervaltraining (nagenoeg) onmogelijk wordt vanwege bijvoorbeeld een te lage
-spierfunctie en/of ernstige kortademigheid.
+Overweeg de duur-/intervaltraining deels of volledig te vervangen door spierkrachttraining indien duur-/intervaltraining (nagenoeg) onmogelijk wordt vanwege bijvoorbeeld een te lage spierfunctie en/of ernstige kortademigheid.
 
 <table class="table">
     <tr>
@@ -337,6 +334,11 @@ spierfunctie en/of ernstige kortademigheid.
         <td>per oefening 2-5 sets van 8-15 herhalingen met ten minste 2 minuten rust na elke set</td>
     </tr>
 </table>
+
+##### Overige behandelingen
+
+- ev. psychotherapie (bij angst / depressie)
+- ev. diëtist inschakelen (bij overgewicht / ondergewicht)
     `,
     references: `
 Bischoff, E., Bouma, M., Broekhuizen, L., Donkers, J., Hallensleben, C., De Jong, J., Snoeck-Stroband, J., In 't Veen, J.C., Van Vugt, S., & Wagenaar, M. (2022). <em>NHG-Standaard COPD (M26)</em>. Nederlands Huisartsen Genootschap. Geraadpleegd op 2 februari 2024, van https://richtlijnen.nhg.org/files/pdf/102_COPD_december-2022.pdf
