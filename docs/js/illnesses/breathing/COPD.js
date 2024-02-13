@@ -156,7 +156,7 @@ Vraag naar:
 - mate van fysieke activiteit (activiteitenmeteraanbev)
 - zuurstofsaturatie in rust en tijdens inspanning en (indien van toepassing) met en zonder medische zuurstof (saturatiemeteraanbev)
 - perifere spierkracht (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/handknijpkrachtmeter-hand-held-dynamometer/">HHD</a> en/of <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/one-repetition-maximum-herhalings-maximum/">1RM</a>)
-- ademspierfunctie (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/maximale-inspiratoire-monddrukmeting/">MIP</a>)
+- ademspierfunctie (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/maximale-inspiratoire-monddrukmeting/">PI-max / MIP</a>)
 - balans/valrisico (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/timed-up-go-test-2/">TUG</a>)
 - symptoomlast (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/modified-medical-research-council-dyspnoe-vragenlijst/">mMRC</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/clinical-copd-questionnaire/">CCQ</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/copd-assessment-test/">CAT</a>)
 
