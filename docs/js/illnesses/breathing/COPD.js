@@ -383,6 +383,10 @@ Weerstandstraining met 'threshold' en 'flow-resistive', of met 'threshold' in co
 
 Overweeg het aanleren van 'pursed lip breathing' (PLB) bij patiënten met inspanningsgebonden kortademigheid en bij patiënten die PLB nog niet automatisch toepassen. Maak alle patiënten bewust van de toepassing, het effect van deze techniek (ook als patiënten deze al automatisch toepassen) en dat PLB toegepast kan worden tijdens en na inspanning.
 
+Deze techniek helpt collaps te voorkomen deels doordat de uitademing langer duurt en deels doordat de getuite lippen zorgen voor een hogere equal pressure point.
+
+Instructies:
+
 1. Adem in door de neus (indien mogelijk)
 2. Adem uit door de mond (2x zo lang als de inademing)
 
