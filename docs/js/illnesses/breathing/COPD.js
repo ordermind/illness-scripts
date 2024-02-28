@@ -242,6 +242,15 @@ Bij een FEV1/FVC-verhouding < 0,7 wordt de beoordeling van de ernst van de lucht
 <img src="./images/breathing/copd-patientprofielen.jpg" class="center margin-bottom" />
     `,
     treatment: `
+Meet de zuurstofsaturatie met een transcutane SpO2-meter (saturatiemeter).
+<strong>Start de fysieke test of oefentherapie enkel bij een transcutaan gemeten rust-SpO2 ≥ 90%.</strong>
+
+Neem contact op met de verwijzer indien de transcutaan gemeten rust-SpO2 na 10 minuten zitten voordat de patiënt met COPD aan een fysieke test of oefentherapie begint, nog steeds < 90% is.
+
+<strong>Stop de fysieke test of oefentherapie bij transcutaan gemeten SpO2 < 85% en neem contact opmet de verwijzer.</strong>
+
+Monitor bij SpO2-waarden van < 90% tijdens fysieke inspanning het SpO2-herstel na het beëindigen van de fysieke test of oefentherapie. Neem contact op met de verwijzer indien de transcutaan gemeten SpO2 in de herstelfase (2 minuten na de fysieke inspanning) zich onvoldoende herstelt (= pre-inspanningsrust-SpO2).
+
 Bied zorg aan die passend is bij het profiel van de patiënt:
 
 - Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI). Focus op zelf-management.
