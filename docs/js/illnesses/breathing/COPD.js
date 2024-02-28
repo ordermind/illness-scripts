@@ -244,11 +244,11 @@ Bij een FEV1/FVC-verhouding < 0,7 wordt de beoordeling van de ernst van de lucht
     treatment: `
 Bied zorg aan die passend is bij het profiel van de patiënt:
 
-- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI).
-- Profiel 2: Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI.
-- Profiel 3: Eerstelijns therapie primair gericht op het optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
-- Profiel 4: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
-- Profiel 5: Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit, optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI). Focus op zelf-management.
+- Profiel 2 (can do, do do): Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI. Focus op zelf-management.
+- Profiel 3 (can do, don't do): Eerstelijns therapie primair gericht op het optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling. Focus op motivatie.
+- Profiel 4 (can't do, do do): Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 5 (can't do, don't do): Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit, optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
 - Profiel 6: Tweede- of derdelijns interdisciplinaire longrevalidatie, gevolgd door onderhoudsbehandeling in de eerstelijnszorg.
 
 #### Voorlichting en educatie
