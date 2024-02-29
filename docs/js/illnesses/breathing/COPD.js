@@ -242,22 +242,13 @@ Bij een FEV1/FVC-verhouding < 0,7 wordt de beoordeling van de ernst van de lucht
 <img src="./images/breathing/copd-patientprofielen.jpg" class="center margin-bottom" />
     `,
     treatment: `
-Meet de zuurstofsaturatie met een transcutane SpO2-meter (saturatiemeter).
-<strong>Start de fysieke test of oefentherapie enkel bij een transcutaan gemeten rust-SpO2 ≥ 90%.</strong>
-
-Neem contact op met de verwijzer indien de transcutaan gemeten rust-SpO2 na 10 minuten zitten voordat de patiënt met COPD aan een fysieke test of oefentherapie begint, nog steeds < 90% is.
-
-<strong>Stop de fysieke test of oefentherapie bij transcutaan gemeten SpO2 < 85% en neem contact opmet de verwijzer.</strong>
-
-Monitor bij SpO2-waarden van < 90% tijdens fysieke inspanning het SpO2-herstel na het beëindigen van de fysieke test of oefentherapie. Neem contact op met de verwijzer indien de transcutaan gemeten SpO2 in de herstelfase (2 minuten na de fysieke inspanning) zich onvoldoende herstelt (= pre-inspanningsrust-SpO2).
-
 Bied zorg aan die passend is bij het profiel van de patiënt:
 
-- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI). Focus op zelf-management.
-- Profiel 2 (can do, do do): Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI. Focus op zelf-management.
-- Profiel 3 (can do, don't do): Eerstelijns therapie primair gericht op het optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling. Focus op motivatie.
-- Profiel 4 (can't do, do do): Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
-- Profiel 5 (can't do, don't do): Eerstelijns therapie primair gericht op het bevorderen van fysieke capaciteit, optimaliseren van fysieke activiteit en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 1: Geen therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een gecombineerde leefstijlinterventie (GLI).
+- Profiel 2 (can do, do do): Geen (of zeer beperkt) therapie, adviseer deelname aan reguliere beweeg- en/of sportactiviteiten, overweeg overleg met huisarts over verwijzing voor een GLI.
+- Profiel 3 (can do, don't do): Eerstelijns therapie primair gericht op het <strong>optimaliseren van fysieke activiteit</strong> en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 4 (can't do, do do): Eerstelijns therapie primair gericht op het <strong>bevorderen van fysieke capaciteit</strong> en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
+- Profiel 5 (can't do, don't do): Eerstelijns therapie primair gericht op het <strong>bevorderen van fysieke capaciteit</strong>, <strong>optimaliseren van fysieke activiteit</strong> en daarna overgang naar reguliere beweeg- en/of sportactiviteiten of opvolging in de vorm van onderhoudsbehandeling.
 - Profiel 6: Tweede- of derdelijns interdisciplinaire longrevalidatie, gevolgd door onderhoudsbehandeling in de eerstelijnszorg.
 
 #### Voorlichting en educatie
@@ -270,6 +261,35 @@ Bied zorg aan die passend is bij het profiel van de patiënt:
 - Gebruik van sociale voorzieningen en lotgenotencontact
 
 #### Optimaliseren van fysieke activiteit
+
+Focus op een gedragsverandering die gericht is op het optimaliseren van fysieke activiteit van
+de patiënt en houd daarbij rekening met de <strong>fasen van gedragsverandering</strong>. Overweeg hierbij de
+inzet van <strong>Motiverende Gespreksvoering</strong>.
+
+#### Bevorderen fysieke capaciteit
+
+<table class="table">
+    <tr>
+        <td>
+Meet de zuurstofsaturatie met een transcutane SpO2-meter (saturatiemeter).
+<strong>Start de fysieke test of oefentherapie enkel bij een transcutaan gemeten rust-SpO2 ≥ 90%.</strong>
+
+Neem contact op met de verwijzer indien de transcutaan gemeten rust-SpO2 na 10 minuten zitten voordat de patiënt met COPD aan een fysieke test of oefentherapie begint, nog steeds < 90% is.
+
+<strong>Stop de fysieke test of oefentherapie bij transcutaan gemeten SpO2 < 85% en neem contact opmet de verwijzer.</strong>
+
+Monitor bij SpO2-waarden van < 90% tijdens fysieke inspanning het SpO2-herstel na het beëindigen van de fysieke test of oefentherapie. Neem contact op met de verwijzer indien de transcutaan gemeten SpO2 in de herstelfase (2 minuten na de fysieke inspanning) zich onvoldoende herstelt (= pre-inspanningsrust-SpO2).
+        </td>
+
+Laat de patiënt elke minuut op de Borg schaal voor vermoeidheid en kortademigheid wijzen. Als de kortademigheid 7-8 of hoger bereikt, probeer de ademhalingstechniek aan te passen en als het niet lukt kun je de training afschalen en anders moet je stoppen.
+    </tr>
+</table>
+
+Hierarchie van moeilijkheidsgraad bij typen oefeningen:
+1. Duurtraining
+2. Intervaltraining
+3. (ev. functionele) Krachttraining
+4. Krachttraining met minder spieren om zo de zuurstofvraag te verlagen, b.v. één been i.p.v. twee benen bij leg extension
 
 ##### Duur- / intervaltraining
 
@@ -301,7 +321,7 @@ licht voorovergebogen uit te laten voeren.
             <ul>
                 <li>duurtraining: 60-80% van de maximale belasting</li>
                 <li>intervaltraining: 85-100% van de maximale belasting</li>
-                <li>opbouw intensiteit mede op geleide van symptomen (Borgscore 4-6 op een schaal van 0-10 punten)</li>
+                <li>opbouw intensiteit mede op geleide van symptomen (Borgscore vermoeidheid 4-6 op een schaal van 0-10 punten)</li>
             </ul>
         </td>
     </tr>
@@ -322,6 +342,8 @@ licht voorovergebogen uit te laten voeren.
 </table>
 
 ##### Spierkrachttraining
+
+Zorg dat tijdens krachttraining de Borgscore vermoeidheid op 4-6 zit. Als er teveel kortademigheid optreedt (7-8 of meer op Borgschaal kortademigheid), doe dan de oefening met minder spieren om zo de zuurstofvraag te verminderen, b.v. doe leg extension met één been i.p.v. twee benen.
 
 <table class="table">
     <tr>
@@ -401,7 +423,7 @@ Instructies:
 
 ##### Ontspanningstechnieken
 
-Overweeg de inzet van ontspanningstechnieken bij patiënten met COPD die kortademig zijn, slaapproblemen hebben, gestrest zijn en/of hoge spierspanning hebben, om daarmee de kortademigheid, spanning en/of angst te verminderen. Bespreek met de patiënt waar de spanning / angst door veroorzaakt kan worden. 
+Overweeg de inzet van ontspanningstechnieken bij patiënten met COPD die kortademig zijn, slaapproblemen hebben, gestrest zijn en/of hoge spierspanning hebben, om daarmee de kortademigheid, spanning en/of angst te verminderen. Bespreek met de patiënt waar de spanning / angst door veroorzaakt kan worden.
 
 #### Multidisciplinaire behandelingen
 
