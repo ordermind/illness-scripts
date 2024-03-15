@@ -15,7 +15,7 @@ Ondercategorieën:
     - claudicatio intermittens
     - kritieke ischemie
 
-Comorbiditeiten:
+#### Comorbiditeiten
 
 - diabetes mellitus
 - chronisch obstructieve longziekten (COPD)
@@ -105,6 +105,17 @@ De symptomen van acute ischemie kunnen samengevat worden in de <strong>vijf P's<
 
     `,
     diagnostics: `
+#### Fontaine classificatie van chronisch obstructief arterieel vaatlijden
+
+- Fontaine I: asymptomatisch vaatlijden
+- Fontaine II: inspanningsgebonden klachten
+    - IIa: klachten bij lopen > 100m
+    - IIb: klachten bij lopen < 100m
+- Fontaine III: klachten in rust
+- Fontaine IV: weefselverlies (ulcera, gangreen)
+
+Bij Fontaine III en IV is er sprake van kritieke ischemie.
+
 #### Anamnese
 
 - Vraag hoe lang de klachten bestaan
