@@ -5,6 +5,13 @@ export default {
         "Scheuermann.js",
     ].map(filename => import("./back/" + filename).then(module => module.default))),
 
+    breathing: await Promise.all([
+        "Astma.js",
+        "COPD.js",
+        "ILD.js",
+        "Longembolie.js",
+    ].map(filename => import("./breathing/" + filename).then(module => module.default))),
+
     hip: await Promise.all([
         "Heupartrose.js",
     ].map(filename => import("./hip/" + filename).then(module => module.default))),
@@ -27,14 +34,11 @@ export default {
         "PatellofemoralePijnsyndroom.js",
     ].map(filename => import("./knee/" + filename).then(module => module.default))),
 
-    breathing: await Promise.all([
-        "Astma.js",
-        "COPD.js",
-        "ILD.js",
-        "Longembolie.js",
-    ].map(filename => import("./breathing/" + filename).then(module => module.default))),
-
     misc: await Promise.all([
         "Sarcopenie.js",
     ].map(filename => import("./misc/" + filename).then(module => module.default))),
+
+    perfusion: await Promise.all([
+        "PeripheralArterialDisease.js",
+    ].map(filename => import("./perfusion/" + filename).then(module => module.default))),
 };
