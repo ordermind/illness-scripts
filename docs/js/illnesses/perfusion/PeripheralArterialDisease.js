@@ -125,7 +125,7 @@ Bij Fontaine III en IV is er sprake van kritieke ischemie.
 
 - Vraag hoe lang de klachten bestaan
 - Vraag of er (snelle) progressie is
-- Besteed aandacht aan de invloed van de klachten op de kwaliteit van leven (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/euroqol-5d/">EQ-5D</a>)
+- Besteed aandacht aan de invloed van de klachten op de kwaliteit van leven (<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/euroqol-5d/">EQ-5D</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/vascular-quality-of-life-questionnaire/">VascuQol-25</a>)
 - Vraag hoe groot de maximale loopafstand is (≤ 100 m?)
 - Besteed aandacht aan risicofactoren voor hart- en vaatziekten (CVRM)
 - Vraag naar behoefte aan informatie (vragenlijst informatiebehoefte, bijlage 2 van KNGF richtlijn voor sPAV)
