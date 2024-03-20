@@ -315,5 +315,7 @@ Bartelink, M.E.L., Elsman, B.H.P., Oostindjer, A., Stoffers, H.E.J.H., Wiersma, 
 Perifeer arterieel vaatlijden (M13)</em>. Nederlands Huisartsen Genootschap. Geraadpleegd op 15 maart 2024, van https://richtlijnen.nhg.org/files/pdf/79_Perifeer%20arterieel%20vaatlijden_februari-2014.pdf
 
 Merry, A.H.H., Teijink, J.A.W., Jongert, M.W.A., Poelgeest, A., van der Voort, S.S.E.M., Bartelink, M.E.L., Stoffers, H.E.J.H., Brooymans, F., Hendriks, H.J.M., de Bie, R.A. (2014). <em>KNGF-richtlijn Symptomatisch perifeer arterieel vaatlijden</em>. Koninklijk Nederlands Genootschap voor Fysiotherapie (KNGF). Geraadpleegd op 15 maart 2024, van https://www.kngf.nl/binaries/content/assets/kennisplatform/onbeveiligd/richtlijnen/spav/downloads/spav-praktijkrichtlijn
+
+Treat-Jacobson, D., McDermott, M. M., Bronas, U. G., Campia, U., Collins, T. C., Criqui, M. H., Gardner, A. W., Hiatt, W. R., Regensteiner, J. G., Rich, K., & American Heart Association Council on Peripheral Vascular Disease; Council on Quality of Care and Outcomes Research; and Council on Cardiovascular and Stroke Nursing (2019). Optimal Exercise Programs for Patients With Peripheral Artery Disease: A Scientific Statement From the American Heart Association. <em>Circulation, 139</em>(4), e10-e33. https://doi.org/10.1161/CIR.0000000000000623
     `
 });
