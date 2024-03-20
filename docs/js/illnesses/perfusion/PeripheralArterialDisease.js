@@ -190,11 +190,26 @@ arterieel vaatlijden vrijwel uitgesloten (kans < 1%)
 Evalueren van het looppatroon
     </td></tr>
     <tr><td>
-Loopbandtest:
+<a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/loopbandtest/">Loopbandtest</a>:
 
+Voorafgaand:
+- ACSM pijn in rust
+- Bloeddruk
+- Hartfrequentie
+- Borgscore voor vermoeidheid in de benen (0-10)
+
+Testprotocol:
 - loopsnelheid 3,2 km/uur
 - toename hellingshoek met 2% elke twee minuten beginnend bij 0%, tot maximaal 10%
 - duur van de test maximaal 30 minuten
+
+Patiënt geeft aan wanneer hij zou willen stoppen (functionele loopafstand).
+Patiënt loopt door tot niet meer mogelijk (maximale loopafstand).
+
+Uitkomstmaten:
+- Functionele loopafstand (de afstand waarbij de patiënt zou willen stoppen) en ACSM pijn op dat moment
+- Maximale loopafstand (de afstand waarbij de patiënt moet stoppen) en ACSM pijn op dat moment
+- Afwijkingen in het looppatroon en moment van optreden ervan
 
 Na afname van de loopbandtest wordt de loopafstand vastgelegd. Tevens wordt gelet op signalen die de loopafstand van de patiënt kunnen beperken:
 
