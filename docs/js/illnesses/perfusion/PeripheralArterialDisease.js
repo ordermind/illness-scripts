@@ -196,7 +196,7 @@ Voorafgaand:
 - ACSM pijn in rust
 - Bloeddruk
 - Hartfrequentie
-- Borgscore voor vermoeidheid in de benen (0-10)
+- <a target="_blank" href="https://meetinstrumentenzorg.nl/wp-content/uploads/instrumenten/Borg-0-10-meetinstr.pdf">Borgscore voor vermoeidheid in de benen (0-10)</a>
 
 Testprotocol:
 - loopsnelheid 3,2 km/uur
