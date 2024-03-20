@@ -116,6 +116,11 @@ De symptomen van acute ischemie kunnen samengevat worden in de <strong>vijf P's<
 
 Bij Fontaine III en IV is er sprake van kritieke ischemie.
 
+#### Observatie
+- Mank lopen
+- Minder belasting op het aangedane been zetten
+- Slechte voetafwikkeling bij het aangedane been, een beetje plat lopen
+
 #### Anamnese
 
 - Vraag hoe lang de klachten bestaan
