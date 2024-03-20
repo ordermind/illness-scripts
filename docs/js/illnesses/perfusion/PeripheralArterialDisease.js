@@ -301,6 +301,12 @@ Voorbeeld van een behandelschema:
     </tr>
 </table>
 
+Om de functionele loopafstand te vergroten:
+
+- 2-3 keer per week
+- Minimaal 30 min per sessie
+- 2-6 maanden
+
 #### Kritieke ischemie
 
 <strong>Bij vermoeden op kritieke ischemie, verwijs met spoed naar een vaatchirurg (of bel 112)</strong>
