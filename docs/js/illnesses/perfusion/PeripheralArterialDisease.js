@@ -303,9 +303,15 @@ Voorbeeld van een behandelschema:
 
 Om de functionele loopafstand te vergroten:
 
+Loopbandtraining onder begeleiding van fysiotherapeut (intervaltraining)
 - 2-3 keer per week
-- Minimaal 30 min per sessie
+- 30-50 min per sessie
 - 2-6 maanden
+- De weerstand moet zodanig aangepast worden dat matig tot ernstige pijn binnen 5-10 optreedt. Dit kan bereikt worden door de snelheid en helling aan te passen.
+- Daarna 2-5 rusten totdat de pijn weer verdwenen is
+
+Aeroob UHV training
+of Kracht UHV training als andere vormen niet goed lukken
 
 #### Kritieke ischemie
 
