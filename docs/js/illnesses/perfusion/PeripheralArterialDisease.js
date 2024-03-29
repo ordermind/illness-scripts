@@ -193,7 +193,7 @@ Evalueren van het looppatroon
 <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/loopbandtest/">Loopbandtest</a>:
 
 Voorafgaand:
-- ACSM pijn in rust
+- <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/american-college-of-sport-medicin-schaal/">ACSM pijn</a> in rust
 - Bloeddruk
 - Hartfrequentie
 - <a target="_blank" href="https://meetinstrumentenzorg.nl/wp-content/uploads/instrumenten/Borg-0-10-meetinstr.pdf">Borgscore voor vermoeidheid in de benen (0-10)</a>
@@ -207,8 +207,8 @@ Patiënt geeft aan wanneer hij zou willen stoppen (functionele loopafstand).
 Patiënt loopt door tot niet meer mogelijk (maximale loopafstand).
 
 Uitkomstmaten:
-- Functionele loopafstand (de afstand waarbij de patiënt zou willen stoppen) en ACSM pijn op dat moment
-- Maximale loopafstand (de afstand waarbij de patiënt moet stoppen) en ACSM pijn op dat moment
+- Functionele loopafstand (de afstand waarbij de patiënt zou willen stoppen) en <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/american-college-of-sport-medicin-schaal/">ACSM pijn</a> op dat moment
+- Maximale loopafstand (de afstand waarbij de patiënt moet stoppen) en <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/american-college-of-sport-medicin-schaal/">ACSM pijn</a> op dat moment
 - Afwijkingen in het looppatroon en moment van optreden ervan
 
 Na afname van de loopbandtest wordt de loopafstand vastgelegd. Tevens wordt gelet op signalen die de loopafstand van de patiënt kunnen beperken:
