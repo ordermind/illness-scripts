@@ -309,17 +309,15 @@ Voorbeeld van een behandelschema:
     </tr>
 </table>
 
-Om de functionele loopafstand te vergroten:
+Om de functionele loopafstand te vergroten (aanbevolen trainingsvorm)
 
 Loopbandtraining onder begeleiding van fysiotherapeut (intervaltraining)
-- 2-3 keer per week
-- 30-50 min per sessie
-- 2-6 maanden
-- De weerstand moet zodanig aangepast worden dat matig tot ernstige pijn binnen 5-10 optreedt. Dit kan bereikt worden door de snelheid en helling aan te passen.
-- Daarna 2-5 rusten totdat de pijn weer verdwenen is
+- Frequentie: 2-3 keer per week
+- Intensiteit: 40-60% van maximale snelheid (gebaseerd op 6MWT waarbij claudicatiepijn binnen 3-5 minuten optreedt). De weerstand moet zodanig aangepast worden dat matig tot ernstige pijn binnen 5-10 optreedt. Dit kan bereikt worden door de snelheid en helling aan te passen.
+- Tijdsduur: 5-10 min lopen, daarna  2-5 min rusten totdat de pijn weer verdwenen is. 30-50 min per sessie.
+- Begeleide training 2-6 maanden, daarna levenslang onderhoud minstens 2 keer per week
 
-Aeroob UHV training
-of Kracht UHV training als andere vormen niet goed lukken
+Aeroob UHV training (b.v. pijnvrije looptraining, fietstraining of aerobe armtraining, zie Treat-Jacobson et al., 2019) of Kracht UHV training als de loopbandtraining niet goed lukt.
 
 #### Kritieke ischemie
 
