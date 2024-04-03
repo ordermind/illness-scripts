@@ -229,6 +229,14 @@ Aanvullend functieonderzoek:
 - evaluatie van coördinatie/stabiliteit
 - sensibiliteitsonderzoek (in geval van diabetes mellitus)
     </td></tr>
+    <tr><td>
+
+Aanvullend onderzoek persoonlijke factoren:
+
+- Inventarisatie van behoefte aan informatie over de aandoening - <a target="_blank" href="https://www.kngf.nl/binaries/content/assets/kennisplatform/onbeveiligd/richtlijnen/spav/downloads/spav-praktijkrichtlijn">KNGF vragenlijst informatiebehoefte (bijlage 2)</a>
+- Inventarisatie van aanwezigheid van comorbiditeit - <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/cumulative-illness-rating-scale-voor-het-vastleggen-v-comorbiditeit/">CIRS</a>
+- Effect op de kwaliteit van leven - <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/36-item-short-form-health-survey/">RAND-36</a>, <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/euroqol-5d/">EQ-5D</a>
+    </td></tr>
 </table>
 
 ##### Kritieke ischemie
