@@ -82,7 +82,7 @@ Op jonge leeftijd staan vooral piepende uitademing en hoesten op de voorgrond. O
     </tr>
     <tr>
         <th>Pathofysiologie</th>
-        <td>Chronische ontsteking in alle luchtwegen, meestal gevoelig voor corticosteroïden</td>
+        <td>Ontsteking in alle luchtwegen, meestal gevoelig voor corticosteroïden</td>
         <td>Chronische ontsteking met name in de kleine luchtwegen, relatief ongevoelig voor corticosteroïden</td>
     </tr>
     <tr>
