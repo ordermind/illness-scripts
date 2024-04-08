@@ -418,8 +418,9 @@ Deze techniek helpt collaps te voorkomen deels doordat de uitademing langer duur
 
 Instructies:
 
-1. Adem in door de neus (indien mogelijk)
-2. Adem uit door de mond (2x zo lang als de inademing)
+1. Adem langzaam in door uw neus gedurende 2 tellen. Voel hoe uw buik groter wordt terwijl u inademt.
+2. Maak uw lippen tuit, alsof u zou willen fluiten of een kaars wilt uitblazen.
+3. Adem langzaam uit door uw lippen gedurende 4 of meer tellen (dus 2x zo lang als de inademing). Adem op een normale manier uit. Forceer de lucht niet.
 
 ##### Ontspanningstechnieken
 
