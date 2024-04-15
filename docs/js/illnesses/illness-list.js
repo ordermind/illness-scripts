@@ -39,6 +39,7 @@ export default {
     ].map(filename => import("./misc/" + filename).then(module => module.default))),
 
     perfusion: await Promise.all([
+        "CoronaryArteryDisease.js",
         "PeripheralArterialDisease.js",
     ].map(filename => import("./perfusion/" + filename).then(module => module.default))),
 };
