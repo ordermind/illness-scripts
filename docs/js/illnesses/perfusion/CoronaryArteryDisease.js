@@ -21,8 +21,8 @@ De pijn bij angina pectoris wordt veroorzaakt door het (relatieve) zuurstofgebre
 
 - Instabiele angina pectoris
 - Myocardinfarct
-    - Non-ST-elevated myocard infarct (non-STEMI)
-    - ST-elevated myocard infarct (STEMI)
+    - Non-ST-elevated myocard infarct (<strong>non-STEMI</strong>): niet-volledige of intermitterende occlusie van het coronairvat
+    - ST-elevated myocard infarct (<strong>STEMI</strong>): volledige occlusie van het coronairvat
     `,
     symptoms: `
 <h4>Stabiele Angina Pectoris</h4>
