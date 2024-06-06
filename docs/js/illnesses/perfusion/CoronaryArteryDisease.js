@@ -47,8 +47,11 @@ De pijn bij angina pectoris wordt veroorzaakt door het (relatieve) zuurstofgebre
 <h4>NYHA classificatie van Angina Pectoris</h4>
 
 I. Geen klachten of bij extreme inspanning
+
 II. Klachten bij flinke inspanning
+
 III. Klachten bij normale dagelijkse activiteiten
+
 IV. Klachten bij geringe inspanning of in rust
 
 Classe I-III vallen onder <strong>stabiele angina pectoris</strong>. Classe IV valt onder <strong>instabiele angina pectoris</strong>.
