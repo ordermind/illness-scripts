@@ -14,8 +14,8 @@ De pijn bij angina pectoris wordt veroorzaakt door het (relatieve) zuurstofgebre
 <img src="./images/perfusion/coronary_artery_disease_pathophysiology.jpg" />
 
 - Stabiele angina pectoris: alleen atherosclerotische plaque
-- Instabiele angina pectoris: niet-afsluitende trombus
-- Acuut myocardinfarct: afsluitende trombus
+- Instabiele angina pectoris: Tijdelijke verergering van gedeeltelijke blokkades in kransslagaders zonder blijvende schade. Niet-afsluitende trombus
+- Acuut myocardinfarct: Volledige blokkade met blijvende schade. Afsluitende trombus
 
 <h4>Acuut coronair syndroom</h4>
 
