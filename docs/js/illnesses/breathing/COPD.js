@@ -25,7 +25,7 @@ COPD heeft een minimale reversibiliteit (afname van obstructie door inname van e
 #### Interne risicofactoren
 
 - Astma
-- Mutaties in het SERPINA1-gen die leiden tot het erfelijk tekort aan α-1 antitrypsine (AATD).
+- Mutaties in het SERPINA1-gen die leiden tot het erfelijk tekort aan α-1 antitrypsine (AATD), zie https://www.longfonds.nl/longziekten/alpha-1.
 - Orale corticosteroïden
 - Inactiviteit
 - Hoge leeftijd (> 60 jaar)
