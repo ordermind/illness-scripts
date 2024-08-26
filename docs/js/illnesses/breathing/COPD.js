@@ -137,12 +137,35 @@ Vraag naar:
 
 ##### Inspectie in rust
 
-- lichaamshouding
-- tekenen van kortademigheid en/of vermoeidheid
-- cyanose (blauwe verkleuring van b.v. vingertoppen, tong of neuspunt)
-- spieratrofie
-- hypertonie van (hulp)ademhalingsspieren en/of perifeer oedeem
-- inspectie van de vorm van de borstkas (statische hyperinflatie, deformiteiten)
+
+
+- Op kant van de bank - observeren
+    - Rugzijde:
+        - Schouderen - op en neer bij in- en uitademen
+        - Tonvormige thorax
+        - Scoliose
+    - Zijkant:
+        - Anteropositie hoofd
+        - Kyfose
+        - Borst-buik ademhaling
+    - Voorzijde:
+        - Neusvleugels
+        - Mond-neus ademhaling
+        - Pursed lip breathing
+        - Cyanose neus en mond
+        - Spieratrofie
+        - Hulpademhalingsspieren in nek aangespannen
+        - Thorax: hoover sign
+        - Dikke benen, enkels en/of voeten (oedeem komt soms voor in een latere fase van COPD)
+- Op de bank zitten met rugsteun en <strong>kussen achter het hoofd</strong>:
+    - Borst-buik ademhaling: hand op borst en buik + ademfrequentie meten (15 sec * 4)
+    - Adembeweging in de flanken: handen aan zijkant ribbenkast. Bij een gezonde mens bewegen de zijkanten naar buiten bij inademen (bucket handle), maar bij een COPD-patiënt is dat minder en kunnen de zijkanten zelfs naar binnen en naar boven bewegen (hoover sign).
+    - Epigastrische hoek: normaal 90 graden, COPD groter door hyperinflatie, goed druk zetten
+    - Tussenrib ruimten: vingers tussen de ribben om te voelen of die dichter bij elkaar komen tijdens inademing. Dit is dan een indicatie op gebruik van hulpademhalingsspieren.
+    - Afstand Cricoïd-Sternum (normaal >= 3 vingerbreedtes)
+    - Spiertonus hulpademhalingsspieren:
+        - m. trapezius, pars descendens
+        - m. sternocleidomastoideus
 
 ##### Functionele inspectie
 
