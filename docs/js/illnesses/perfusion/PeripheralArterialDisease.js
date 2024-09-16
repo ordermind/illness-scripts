@@ -56,7 +56,7 @@ wandelen of tuinieren)
 
 De kans op andere hart- en vaatziekten is 3x zo hoog als bij personen zonder chronisch obstructief arterieel vaatlijden
     `,
-timeCourse: `
+    timeCourse: `
 #### Chronisch obstructief arterieel vaatlijden
 
 - Geleidelijk progressief
@@ -177,14 +177,18 @@ Trofische stoornissen: beoordeel de huid (vooral van de tenen, met aandacht voor
     <tr><td>
 Bepaal de enkel-armindex (EAI) bij klachten van claudicatio intermittens en/of als een van de bovenstaande onderzoeken een positief resultaat geeft. Een enkel-armindex in rust
 
+<img src="./images/perfusion/eai.png" />
+
 Interpretatie van EAI onderzoek:
 
-< 0,8 (eenmalige bepaling) of < 0,9 (gemiddelde van 3 bepalingen): chronisch obstructief arterieel vaatlijden vrijwel zeker (kans > 95%)
+&lt; 0,8 (eenmalige bepaling) of &lt; 0,9 (gemiddelde van 3 bepalingen): chronisch obstructief arterieel vaatlijden vrijwel zeker (kans > 95%)
 
 0,9-1,0: chronisch obstructief arterieel vaatlijden niet zeker, overweeg alternatieve diagnosen of verwijs voor nadere diagnostiek bij een aanhoudend vermoeden van chronisch obstructief arterieel vaatlijden
 
-> 1,1 (eenmalige bepaling) of > 1,0 (gemiddelde van 3 bepalingen): chronisch obstructief
-arterieel vaatlijden vrijwel uitgesloten (kans < 1%)
+&gt; 1,1 (eenmalige bepaling) of &gt; 1,0 (gemiddelde van 3 bepalingen): chronisch obstructief
+arterieel vaatlijden vrijwel uitgesloten (kans &lt; 1%)
+
+&ge; 1,3: niet normaal, duidt mogelijk op calcificatie van de arterieën in de enkel
     </td></tr>
     <tr><td>
 Evalueren van het looppatroon
