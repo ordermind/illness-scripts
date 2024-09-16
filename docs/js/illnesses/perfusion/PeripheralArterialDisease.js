@@ -192,6 +192,12 @@ arterieel vaatlijden vrijwel uitgesloten (kans &lt; 1%)
     </td></tr>
     <tr><td>
 Evalueren van het looppatroon
+
+Kijk naar:
+
+- Mank lopen
+- Minder belasting op het aangedane been zetten
+- Slechte voetafwikkeling bij het aangedane been, een beetje plat lopen
     </td></tr>
     <tr><td>
 <a target="_blank" href="https://meetinstrumentenzorg.nl/instrumenten/loopbandtest/">Loopbandtest</a>:
