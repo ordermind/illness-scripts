@@ -55,8 +55,8 @@ Verslechting van de kwaliteit van het kraakbeen waardoor structurele verandering
 <img src="./images/knee/Jaarprevalentie-artrose-in-huisartsenpraktijk-2021.png" />
 
 - Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en de <strong>meest voorkomende</strong> vorm van artrose is knieartrose.
-- Prevalentie in 2021: 4,36%
-- Incidentie in 2021: 0,25%
+- Prevalentie in 2021: 8,69%
+- Incidentie in 2021: 0,5%
 - Leeftijd 45 jaar of ouder
 - Vaker bij vrouwen dan bij mannen
     `,
@@ -255,6 +255,6 @@ Van Berkel, S. (2010). <em>Mono-disciplinaire richtlijn Patellofemoraal pijnsynd
 
 Van Melick, N. (2022). Patellofemorale pijn bij de adolescente sporter; Deel 1: Diagnosticeren door in de beweegketen te redeneren. <em>Sportgericht 76</em>(4).
 
-Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 7 december 2023, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
+Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 30 september 2024, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
     `
 });

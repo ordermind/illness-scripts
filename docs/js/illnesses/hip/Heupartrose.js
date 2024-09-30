@@ -54,8 +54,8 @@ Verslechting van de kwaliteit van het kraakbeen waardoor structurele verandering
 <img src="./images/knee/Jaarprevalentie-artrose-in-huisartsenpraktijk-2021.png" />
 
 - Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en heupartrose is daar een vaak voorkomende variant van.
-- Prevalentie in 2021: 2,78%
-- Incidentie in 2021: 0,16%
+- Prevalentie in 2021: 5,53%
+- Incidentie in 2021: 0,33%
 - Leeftijd 45 jaar of ouder
 - Vaker bij vrouwen dan bij mannen
     `,
@@ -249,6 +249,6 @@ Gay, C., Chabaud, A., Guilley, E., & Coudeyre, E. (2016). Educating patients abo
 
 Kampshoff, C.S., Peter, W.F.H., Van Doormaal, M.C.M., Knoop, J., Meerhoff, G.A., & Vliet Vlieland, T.P.M. (2018). <em>KNGF-richtlijn Artrose heup-knie</em>. Het Koninklijk Nederlands Genootschap voor Fysiotherapie. Geraadpleegd op 7 december 2023, van https://www.kngf.nl/kennisplatform/richtlijnen/artrose-heup-knie
 
-Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 7 december 2023, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
+Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 30 september 2024, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
     `
 });
