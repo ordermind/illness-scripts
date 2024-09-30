@@ -54,8 +54,8 @@ Verslechting van de kwaliteit van het kraakbeen waardoor structurele verandering
 <img src="./images/knee/Jaarprevalentie-artrose-in-huisartsenpraktijk-2021.png" />
 
 - Artrose in het algemeen is de meest voorkomende musculoskeletale aandoening, en heupartrose is daar een vaak voorkomende variant van.
-- Prevalentie in 2021: 5,53%
-- Incidentie in 2021: 0,33%
+- Prevalentie in 2023: 2,8%
+- Incidentie in 2023: 0,17%
 - Leeftijd 45 jaar of ouder
 - Vaker bij vrouwen dan bij mannen
     `,
@@ -245,10 +245,10 @@ Zorg voor een geleidelijke opbouw in intensiteit gedurende het programma en volg
 - Stimuleer de patiënt om na de behandelperiode zelfstandig te blijven oefenen.
     `,
     references: `
+Bes, J., Heins, M., Weesie, Y., Hout, V. van der, Baarda, E., Knottnerus, B., Hasselaar, J., Overbeek, L., Hek, K., Vanhommerig, J. Zorg door de huisarts. Nivel Zorgregistraties Eerste Lijn: jaarcijfers 2023 en trendcijfers 2019-2023. Utrecht: Nivel, 2024. Geraadpleecht op 30 september 2024, van https://www.nivel.nl/sites/default/files/bestanden/1004609.pdf
+
 Gay, C., Chabaud, A., Guilley, E., & Coudeyre, E. (2016). Educating patients about the benefits of physical activity and exercise for their hip and knee osteoarthritis. Systematic literature review. <em>Annals of physical and rehabilitation medicine, 59</em>(3), 174-183. https://doi.org/10.1016/j.rehab.2016.02.005
 
 Kampshoff, C.S., Peter, W.F.H., Van Doormaal, M.C.M., Knoop, J., Meerhoff, G.A., & Vliet Vlieland, T.P.M. (2018). <em>KNGF-richtlijn Artrose heup-knie</em>. Het Koninklijk Nederlands Genootschap voor Fysiotherapie. Geraadpleegd op 7 december 2023, van https://www.kngf.nl/kennisplatform/richtlijnen/artrose-heup-knie
-
-Vanhommerig, J.W., Poos, M.J.J.C., Gommer, A.M., Hendriks, C., & Giesbers, H. (z.d.). <em>Artrose | Leeftijd en geslacht</em>. VZinfo. Rijksinstituut voor Volksgezondheid en Milieu. Geraadpleegd op 30 september 2024, van https://www.vzinfo.nl/artrose/leeftijd-en-geslacht
     `
 });
